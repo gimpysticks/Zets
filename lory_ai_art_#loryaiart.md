@@ -1,7 +1,7 @@
+
+
 October 2025 Challenge
-
 Instagram/Creator: @lory.ai.art
-
 Hashtag: #loryaiart
 Day	Theme
 Day 1	Acorns
@@ -34,6 +34,5 @@ Day 27	Brown, Green, Grey, Orange, Red & Yellow (Colors)
 Day 28	Apple
 Day 29	Corn
 Day 30	Badger
-
 @lory.ai.art
 #loryaiart

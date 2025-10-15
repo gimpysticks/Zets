@@ -98,7 +98,7 @@ Oct 24. Dxn't lxse (Scarlxrd, MoonDeity)
 @document10
 #dxphonk25
 
-Oct 25. Amber 4lert (Grioten, DAY$\text{\\$}$OKEE, Sayfalse)
+Oct 25. Amber 4lert (Grioten, DAY$\text{\$}$OKEE, Sayfalse)
 @document10
 #dxphonk25
 
