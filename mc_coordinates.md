@@ -4,7 +4,7 @@ date: 2021-09-28 23:26
 ---
 1. Cool npc village by spawn
 2. Jungle temple near spawn
-3. A 2nd npc [village](village) next to a Jungle
+[3](3.md). A 2nd npc [village](village) next to a Jungle
 
 Seed: -4100875858698083715
 
