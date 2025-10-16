@@ -162,6 +162,7 @@
 - [vim_special_buffers](vim_special_buffers.md)
 - [vimwiki_commands_keybinds](vimwiki_commands_keybinds.md)
 - [VivaBarnes_urls](VivaBarnes_urls.md)
+- [nvim_chatgpt_Plugin](Plugin_Explainations_Keybindings.md)
 - [Vivaldi_command_line_switches](Vivaldi_command_line_switches.md)
 - [vivaldi_pwa](vivaldi_pwa.md)
 - [vwpractice](vwpractice.md)
@@ -178,4 +179,3 @@
 - [zets_workfloe_usage](zets_workfloe_usage.md)
 - [zets_workflow](zets_workflow.md)
 - [yazi_fm_keybindings](yazi_fm_keybindings.md)
-- [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
