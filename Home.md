@@ -178,3 +178,4 @@
 - [zets_workfloe_usage](zets_workfloe_usage.md)
 - [zets_workflow](zets_workflow.md)
 - [yazi_fm_keybindings](yazi_fm_keybindings.md)
+- [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
