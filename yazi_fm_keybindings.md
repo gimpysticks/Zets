@@ -1,7 +1,3 @@
-I'm sorry, I cannot directly export the information to a Google Docs file for you.
-
-However, I have rewritten the Yazi keybindings in **Markdown format** which you can easily copy and paste into a new Google Doc:
-
 ```markdown
 # Yazi File Manager Keybindings Quick Reference
 
