@@ -53,7 +53,6 @@
 - [display_vi_or_emacs_mode](display_vi_or_emacs_mode.md)
 - [docker_detach](docker_detach.md)
 - [docker_hub_login](docker_hub_login.md)
-- [document10_#dxphonk25](document10_#dxphonk25.md)
 - [dr_spiegel_jd_post](dr_spiegel_jd_post.md)
 - [extract_cookies_code](extract_cookies_code.md)
 - [extract_lines_to_file](extract_lines_to_file.md)
