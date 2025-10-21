@@ -14,7 +14,6 @@
 - [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
 - [Mom_and_Pat_s_100_presidents_Cruise_in_Germany](Mom_and_Pat_s_100_presidents_Cruise_in_Germany.md)
 - [Movies](Movies.md)
-- [Oct_2025](Oct_2025.md)
 - [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
 - [Remove_Chrome](Remove_Chrome.md)
 - [Rippaverse](Rippaverse.md)
