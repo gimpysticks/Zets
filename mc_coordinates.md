@@ -6,8 +6,7 @@ date: 2021-09-28 23:26
 2. Jungle temple near spawn
 
 Seed: -4100875858698083715
-
-
+j
 pawnpoint: -177 70 -41
 spawnpoint: -11 64 -120
 2668 84 -2307
