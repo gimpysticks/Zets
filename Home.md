@@ -14,7 +14,6 @@
 - [bluetoothctl_commands](bluetoothctl_commands.md)
 - [brunch_list](brunch_list.md)
 - [camera_rtsp](camera_rtsp.md)
-- [cape_may](cape_may.md)
 - [change_default_file_manage_popos](change_default_file_manage_popos.md)
 - [Change_git_master_to_main](Change_git_master_to_main.md)
 - [cheat-sheet](cheat-sheet.md)
