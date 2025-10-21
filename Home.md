@@ -6,7 +6,6 @@
 - [Change_git_master_to_main](Change_git_master_to_main.md)
 - [Delete_Trailing_Space_In_Vim](Delete_Trailing_Space_In_Vim.md)
 - [Drivein_bacon_breakfast_toasters_at_home](Drivein_bacon_breakfast_toasters_at_home.md)
-- [Fudonutsunele_#WRB25](Fudonutsunele_#WRB25.md)
 - [How to Restart Network Manager in Ubuntu](How_to_Restart_Network_Manager_in_Ubuntu.md)
 - [Lnaiart_jun](Latenight.ai.md)
 - [Online Learning Resources](Learning-resourses.md)
