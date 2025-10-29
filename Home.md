@@ -20,6 +20,7 @@
 - [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
 - [Remove_Chrome](Remove_Chrome.md)
 - [Rippaverse](Rippaverse.md)
+- [SREFS](SREFS.md)
 - [Scratchpad](Scratchpad.md)
 - [Spectator-keybinds](Spectator-keybinds.md)
 - [🔴 **Live Streamers & YouTubers with Live Content**](Streamers_List.md)
