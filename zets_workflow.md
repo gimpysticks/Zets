@@ -1,81 +1,79 @@
-# Zets Workflow - Saving Warp Output to Markdown
+# Zettelkasten Workflow
 
-2025-06-22 02:51:30
+This document outlines the workflow for managing Zettelkasten notes.
 
-## Quick Commands
+## 1. Capture
 
-- `sz <filename> [title]` - Create new markdown file
-- `az <filename>` - Append content to existing file  
-- `lz [pattern]` - List all zets files
-- `vz` - View zets directory
+- Quickly capture ideas, thoughts, and information as atomic notes.
+- Each note should focus on a single idea.
 
-## Workflow Steps
+## 2. Process
 
-### 1. Copy Content from Warp
-- Select and copy the output block from Warp (Ctrl+C)
+- Review captured notes.
+- Refine and rephrase for clarity and conciseness.
+- Assign unique identifiers (e.g., timestamps, UUIDs).
 
-### 2. Create New Zets File
-```bash
-sz filename "Optional Title"
-# Example: sz docker_commands "Docker Reference"
-```
+## 3. Connect
 
-### 3. Paste Content
-- The editor will open automatically
-- Paste your content (Ctrl+V)
-- Save and exit
+- Link new notes to existing relevant notes.
+- Use bidirectional links to show relationships.
+- Create index notes or "structure notes" to organize clusters of ideas.
 
-### 4. Alternative: Direct Paste
-```bash
-# Create file first
-sz filename "Title"
+## 4. Elaborate
 
-# Then append copied content
-az filename
-# Paste content and press Ctrl+D when done
-```
+- Expand on existing notes with new insights.
+- Combine related notes into more comprehensive ones.
 
-### 5. Quick Append to Existing File
-```bash
-az existing_filename
-# Paste new content and press Ctrl+D
-```
+## 5. Review
 
-### 6. Browse Your Zets
-```bash
-lz                    # List all files
-lz "*docker*"         # List files matching pattern
-vz                    # View directory contents
-```
+- Regularly review notes to reinforce learning and discover new connections.
+- Identify gaps in knowledge or areas for further exploration.
 
-## File Organization
+## Tools
 
-Files are stored in `~/zets/` with:
-- Automatic `.md` extension
-- Timestamp headers
-- Proper markdown formatting
-- Searchable content
+- **Vim/Neovim:** For note-taking and editing.
+- **`fd`:** For quickly finding notes.
+- **`grep`:** For searching within note content.
+- **`fzf`:** For fuzzy finding notes.
 
-## Advanced Usage
+## Naming Convention
 
-### Using Heredoc for Large Content
-```bash
-cat >> ~/zets/filename.md << 'EOF'
-Your content here
-Multiple lines
-EOF
-```
+- `YYYYMMDDHHMM-keyword.md` (e.g., `202310271430-zettelkasten-principles.md`)
+- Keywords should be concise and descriptive.
 
-### Direct Command Output Capture
-```bash
-# Save command output directly
-command_output > ~/zets/command_results.md
-```
+## Tags
 
-### Integration with Git (Optional)
-```bash
-cd ~/zets
-git init
-git add .
-git commit -m "Added new zets"
+- Use `#tags` within notes for categorization.
+- Example: `#productivity #knowledge-management #workflow`
+
+## Example Note Structure
+
+```markdown
+---
+title: Zettelkasten Principles
+date: 2023-10-27T14:30:00Z
+tags: [productivity, knowledge-management]
+---
+
+# Zettelkasten Principles
+
+The Zettelkasten method emphasizes atomic notes, interconnectedness, and iterative refinement...
+
+## Key Principles
+
+- **Atomicity:** Each note contains a single idea.
+- **Autonomy:** Notes are self-contained and understandable on their own.
+- **Connectivity:** Notes are linked to other relevant notes.
+- **Generativity:** The system encourages new ideas and insights through connections.
+
+## How it works
+
+1.  **Fleeting Notes:** Quick captures of ideas.
+2.  **Literature Notes:** Summaries of external sources.
+3.  **Permanent Notes:** Refined, atomic notes linked into the system.
+
+## Related Notes
+
+- [[202310261000-note-taking-strategies]]
+- [[202310280900-linking-ideas]]
 ```
