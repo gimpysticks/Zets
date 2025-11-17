@@ -1,3 +1,5 @@
+
+
 # Generated Links
 
 - [AI Plugin Commands in Neovim](AI_plugin_commands.md)
@@ -16,8 +18,10 @@
 - [Let's see what happens](Let's see what happens.md)
 - [Influence and Major Works](Lovecraft.md)
 - [Lua_counter](Lua_counter.md)
+- [MJ-Template](MJ-Template.md)
 - [MPV_EXAMPLES](MPV_EXAMPLES.md)
 - [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
+- [The Project Gutenberg eBook of Miracle Mongers and Their Methods](Miracle_Mongers_And_Their_Methods.md)
 - [Movies](Movies.md)
 - [November2025Chal](November2025Chal.md)
 - [OBS Studio Hotkeys - Sticks Profile](OBS_Keys.md)
@@ -37,7 +41,7 @@
 - [Telescope](Telescope.md)
 - [Tour_Of_Google_AI_STUDIO](Tour_Of_Google_AI_STUDIO.md)
 - [Vim_Keybindings](Vim_Keybindings.md)
-- [VivaBarnes_urls](V5ivaBarnes_urls.md)
+- [VivaBarnes_urls](VivaBarnes_urls.md)
 - [Vivaldi_command_line_switches](Vivaldi_command_line_switches.md)
 - [Walmart_Perscriptions](Walmart_Perscriptions.md)
 - [Windocker](Windocker.md)
@@ -79,6 +83,7 @@
 - [gaijin_sale](gaijin_sale.md)
 - [gnome_gsettings](gnome_gsettings.md)
 - [gnome_move_window_to_workspace_x](gnome_move_window_to_workspace_x.md)
+- [Grimm Wesen Compendium](grimm_wesen.md)
 - [hash_tag_collection](hash_tag_collection.md)
 - [hothead_order](hothead_order.md)
 - [htop_enable_f10](htop_enable_f10.md)
