@@ -1,3 +1,9 @@
+---
+title: AI_plugin_commands
+created: 2025-11-05
+modified: 2025-11-05
+---
+
 # AI Plugin Commands in Neovim
 
 This document lists the commands and keybindings for the AI-related Neovim plugins configured in your setup.

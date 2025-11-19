@@ -1,3 +1,9 @@
+---
+title: Vivaldi_command_line_switches
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 Here are some of the command line parameters for Vivaldi Browser:
 
 1. `--app` - Open a specified URL in app mode (removes UI elements such as the address bar and tabs).

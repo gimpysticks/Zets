@@ -1,3 +1,9 @@
+---
+title: Home
+created: 2025-11-16
+modified: 2025-11-16
+---
+
 
 
 # Generated Links
@@ -6,10 +12,8 @@
 - [Air_Fried_Pork_Chop](Air_Fried_Pork_Chop.md)
 - [CLAUDE.md](CLAUDE.md)
 - [Change_git_master_to_main](Change_git_master_to_main.md)
-- [DOCUMENT10__#dxchill25](DOCUMENT10__#dxchill25.md)
 - [Delete_Trailing_Space_In_Vim](Delete_Trailing_Space_In_Vim.md)
 - [Drivein_bacon_breakfast_toasters_at_home](Drivein_bacon_breakfast_toasters_at_home.md)
-- [Fudonutsunele_#WRB25](Fudonutsunele_#WRB25.md)
 - [Halloween_ideas](Halloween_ideas.md)
 - [Generated Links](Home.md)
 - [How to Restart Network Manager in Ubuntu](How_to_Restart_Network_Manager_in_Ubuntu.md)
@@ -28,7 +32,6 @@
 - [Oct_2025](Oct_2025.md)
 - [Orca-keybinds](Orca-keybinds.md)
 - [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
-- [README](README.md)
 - [Remove_Chrome](Remove_Chrome.md)
 - [Rippaverse](Rippaverse.md)
 - [SREFS](SREFS.md)

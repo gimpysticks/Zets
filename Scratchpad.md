@@ -1,3 +1,9 @@
+---
+title: Scratchpad
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 
 https://github.com/neovim/neovim/releases
 

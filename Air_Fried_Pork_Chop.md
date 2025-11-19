@@ -1,3 +1,9 @@
+---
+title: Air_Fried_Pork_Chop
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 2 pork chops
 2 Tbsps olive oil
 2 Tsps garlic salt

@@ -1,3 +1,9 @@
+---
+title: prompt_template
+created: 2025-11-13
+modified: 2025-11-13
+---
+
 Category,Description / Prompt Field
 I. SUBJECT,WHO/WHAT is the main focus?
 II. ACTION/MOOD,"WHAT is the subject doing, and WHY are they doing it (mood)?"

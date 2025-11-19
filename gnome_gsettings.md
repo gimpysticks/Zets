@@ -1,3 +1,9 @@
+---
+title: gnome_gsettings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 `gsettings set org.gnome.mutter overlay-key ''`
 gsettings set org.gnome.shell.keybindings toggle-application-picker "['<Alt>F2']"`
 gsettings set org.gnome.desktop.wm.keybindings switch-applications "['<Alt>Tab']"`

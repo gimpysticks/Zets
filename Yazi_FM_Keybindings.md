@@ -1,3 +1,9 @@
+---
+title: Yazi_FM_Keybindings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 # Yazi File Manager Keybindings Quick Reference
 
 You can always press `~` or `F1` inside Yazi to view the complete list of shortcuts.

@@ -1,3 +1,9 @@
+---
+title: zets_workflow
+created: 2025-10-21
+modified: 2025-11-03
+---
+
 # Zettelkasten Workflow
 
 This document outlines the workflow for managing Zettelkasten notes.

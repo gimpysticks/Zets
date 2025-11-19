@@ -1,3 +1,9 @@
+---
+title: tarot_cards_meanings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 # Tarot Cards Meanings
 
 A complete reference guide to all 78 tarot cards with their traditional upright meanings.

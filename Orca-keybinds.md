@@ -1,3 +1,9 @@
+---
+title: Orca-keybinds
+created: 2025-10-22
+modified: 2025-10-22
+---
+
 Task	Desktop Layout Command	Laptop Layout Command	
 Open Orca Settings	Insert+Space	CapsLock+Space	
 Toggle Speech On/Off	Insert+S	CapsLock+S	

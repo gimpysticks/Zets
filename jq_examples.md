@@ -1,3 +1,9 @@
+---
+title: jq_examples
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 ddgr Using jq
 youtube-dl --skip-download --print-json "$(xclip -o)"|jq '{"date": .upload_date,"title": .title,"URL": .url,"duration": .duration}'\
 man jq

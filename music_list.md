@@ -1,3 +1,9 @@
+---
+title: music_list
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 [1](1). Michael Hedges
 1. Chris DeBurgh
 1. Falco (Johann Holzel)

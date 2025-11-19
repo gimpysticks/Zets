@@ -1,3 +1,9 @@
+---
+title: JEDAINOV25
+created: 2025-11-02
+modified: 2025-11-02
+---
+
 
 Nov 1 - Steampunk Hearth
 @ai_art_jedima

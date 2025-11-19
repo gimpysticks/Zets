@@ -1,3 +1,9 @@
+---
+title: Drivein_bacon_breakfast_toasters_at_home
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 ﻿To make Sonic-Drivein bacon breakfast toasters at home, you will need the following ingredients:
 * 2 slices of Texas toast
 * 2 eggs

@@ -1,3 +1,9 @@
+---
+title: Vim_Keybindings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 **n  K**           *@:<C-U>execute "!pydoc " . expand("<cword>")<CR>
 	Last set from ~/.config/nvim/init.vim line 44
 

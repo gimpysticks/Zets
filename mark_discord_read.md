@@ -1,3 +1,9 @@
+---
+title: mark_discord_read
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 # How to Mark All Servers as Read in Discord
 
 To mark all servers as read in Discord, you have a few options:

@@ -1,3 +1,9 @@
+---
+title: Movies
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 Included in this compilation are
 00:00 The Best Upcoming Movies 2022
 00:03 Bullet Train

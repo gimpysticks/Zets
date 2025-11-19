@@ -1,3 +1,9 @@
+---
+title: Stuff
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 /mnt/backup/wallscadye/  line="05 05 * * 1 /home/wallscayde/bin/backup.sh wallscayde "/mnt/backup/" (crontab -u wallscayde -l; echo "$line" ) | crontab -u wallscayde - Linux Linux delta.comp  grep -srl stickspass ./ | xargs sed -i 's/stickspass/userpass/g'     00:00:43 01:46:05 05
 
 ---

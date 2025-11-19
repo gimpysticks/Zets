@@ -1,3 +1,9 @@
+---
+title: late_night_ai_art_#lnaiart_oct
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 October Ai Art Challenge
 
 1. Imagine Your October

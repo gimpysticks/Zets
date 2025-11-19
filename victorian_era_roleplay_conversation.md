@@ -1,3 +1,9 @@
+---
+title: victorian_era_roleplay_conversation
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 # Victorian Era Roleplay - ChatGPT Conversation
 
 **Source:** https://chatgpt.com/share/68460038-96fc-8010-ae65-e870bd9417a2

@@ -1,3 +1,9 @@
+---
+title: Spectator-keybinds
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 Sure, here are the navigation keys for War Thunder spectator mode:
 
 W, A, S, D: Move the camera forward, left, backward, and right.

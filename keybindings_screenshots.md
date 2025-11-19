@@ -1,3 +1,9 @@
+---
+title: keybindings_screenshots
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 Task                                                 Keybindings
 - Copy a screenshot of a window to clipboard           - CTRL-ALT-PRINT
 - Copy a screenshot of an area to clipboard            - SHIFT-ALT-PRINT

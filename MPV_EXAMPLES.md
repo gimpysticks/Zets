@@ -1,3 +1,9 @@
+---
+title: MPV_EXAMPLES
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 
 : 1639757885:0;mpv -fs --playlist=~/listfiles/xvids-12-17-2021.txt
 : 1639758664:0;mpv -fs --playlist=$HOME/listfiles/xvids-12-17-2021.txt

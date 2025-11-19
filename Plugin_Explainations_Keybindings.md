@@ -1,3 +1,9 @@
+---
+title: Plugin_Explainations_Keybindings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 - 
 
 Summary of your installed plugins and their uses:

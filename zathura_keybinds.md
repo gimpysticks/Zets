@@ -1,3 +1,9 @@
+---
+title: zathura_keybinds
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 MOUSE AND KEY BINDINGS
        General
 

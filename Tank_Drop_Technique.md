@@ -1,3 +1,9 @@
+---
+title: Tank_Drop_Technique
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 ﻿The technique you are referring to is called the "tank shell drop" or "top-down
 attack". It is a high-risk, high-reward maneuver that can be used to devastating
 effect against unsuspecting opponents.

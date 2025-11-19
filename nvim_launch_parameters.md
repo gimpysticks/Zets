@@ -1,3 +1,9 @@
+---
+title: nvim_launch_parameters
+created: 2025-10-23
+modified: 2025-10-23
+---
+
 Neovim (and Vim) has many command line options. Here are some of the most common and useful ones:
 
 ### Opening Files and Executing Commands

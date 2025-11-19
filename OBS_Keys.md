@@ -1,6 +1,12 @@
+---
+title: OBS_Keys
+created: 2025-11-11
+modified: 2025-11-16
+---
+
 # OBS Studio Hotkeys - Sticks Profile
 
-Generated on: 2025-11-11 17:48:42
+Generated on: 2025-11-16 21:59:26
 
 ## Global Hotkeys
 
@@ -28,7 +34,7 @@ Generated on: 2025-11-11 17:48:42
 ## Scene Hotkeys
 
 - **Switch to BRB:** Numpad 9
-- **Switch to Cam_Desktop_Linktree:** Esc
+- **Switch to Cam_Desktop_Linktree:** Numpad 4
 - **Switch to Cam_Desktop:** Numpad 1
 - **Switch to Cam_Desktop_User:** Numpad 3
 - **Switch to Desktop:** Numpad 2

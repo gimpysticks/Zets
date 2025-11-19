@@ -1,3 +1,9 @@
+---
+title: How_to_Restart_Network_Manager_in_Ubuntu
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 ## How to Restart Network Manager in Ubuntu

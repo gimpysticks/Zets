@@ -1,3 +1,9 @@
+---
+title: pocketsphinx_guide
+created: 2025-09-21
+modified: 2025-06-19
+---
+
 # PocketSphinx Usage Guide
 
 ## Quick Start

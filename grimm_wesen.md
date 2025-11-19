@@ -1,3 +1,9 @@
+---
+title: grimm_wesen
+created: 2025-11-16
+modified: 2025-11-16
+---
+
 # Grimm Wesen Compendium  
 A complete three‑part markdown archive of **all major, minor, hybrid, royal, and supernatural (non‑Wesen) beings** from the TV series **Grimm**.
 

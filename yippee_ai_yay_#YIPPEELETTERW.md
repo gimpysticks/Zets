@@ -1,3 +1,9 @@
+---
+title: yippee_ai_yay_#YIPPEELETTERW
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 @yippee_ai_yay/#YIPPEELETTERW
 Oct 1st - Whale
 Oct 2nd - Wellington boots

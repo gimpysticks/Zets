@@ -1,3 +1,9 @@
+---
+title: mknetaccts
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 sudo useradd -m -u 1000 -s /bin/bash --comment "John Kilbane" sticks
 echo "sticks:2WVNfMR#"|sudo chpasswd
 sudo useradd -m -u 1001 -s /bin/bash --comment "Michelle Walls" mwalls4464

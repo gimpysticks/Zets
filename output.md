@@ -1,3 +1,9 @@
+---
+title: output
+created: 2025-09-21
+modified: 2025-08-01
+---
+
 <!DOCTYPE html><html lang="en"><head><title>Google Search</title><style>body{background-color:#fff}</style></head><body><noscript><style>table,div,span,p{display:none}</style><meta content="0;url=/httpservice/retry/enablejs?sei=hU6MaKm_N9Gj5NoPm-OFiQM" http-equiv="refresh"><div style="display:block">Please click <a href="/httpservice/retry/enablejs?sei=hU6MaKm_N9Gj5NoPm-OFiQM">here</a> if you are not redirected within a few seconds.</div></noscript><script nonce="mV5dB59llRALqjGXhT0qqA">(function(){var sctm=false;(function(){sctm&&google.tick("load","pbsst");}).call(this);})();</script><script nonce="mV5dB59llRALqjGXhT0qqA">//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjogMywic291cmNlcyI6WyIiXSwic291cmNlc0NvbnRlbnQiOlsiICJdLCJuYW1lcyI6WyJjbG9zdXJlRHluYW1pY0J1dHRvbiJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEifQ==
 (function(){var n=function(G,L,W,O,N,H,Z,U,S,r){for(S=55;S!=48;)if(S==55)S=97;else if(S==6){if((Z=(U=V.trustedTypes,N),U)&&U.createPolicy){try{Z=U.createPolicy(H,{createHTML:F,createScript:F,createScriptURL:F})}catch(C){if(V.console)V.console[O](C.message)}r=Z}else r=Z;S=88}else if(S==97)S=(W-G|L)>=W&&W+2>>2<W?5:52;else if(S==52)S=W-8<<1>=W&&(W+2&59)<W?6:88;else{if(S==88)return r;S==5&&(r=O,S=52)}},V=this||self,F=function(G){return n.call(this,4,17,5,G)};(0,eval)(function(G,L){return(L=n(4,17,20,"error",null,"ks"))&&G.eval(L.createScript("1"))===1?function(W){return L.createScript(W)}:function(W){return""+W}}(V)(Array(Math.random()*7824|0).join("\n")+['//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjogMywic291cmNlcyI6WyIiXSwic291cmNlc0NvbnRlbnQiOlsiICJdLCJuYW1lcyI6WyJjbG9zdXJlRHluYW1pY0J1dHRvbiJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEifQ==',
 '(function(){/*',

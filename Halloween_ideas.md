@@ -1,3 +1,9 @@
+---
+title: Halloween_ideas
+created: 2025-10-26
+modified: 2025-10-26
+---
+
 Here is a list of words commonly associated with Halloween, grouped by theme:
 
 **Creatures & Characters**

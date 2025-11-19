@@ -1,3 +1,9 @@
+---
+title: Walmart_Perscriptions
+created: 2025-10-27
+modified: 2025-10-27
+---
+
 That's a great question, and I can give you the steps to accomplish this!
 
 Yes, you can absolutely **add your wife's prescriptions to your Walmart Pharmacy account for delivery**, and because you have a **Walmart+ membership**, that delivery will be **free** (with no order minimum).

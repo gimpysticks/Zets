@@ -1,3 +1,9 @@
+---
+title: mpv_parameters
+created: 2025-10-31
+modified: 2025-10-31
+---
+
 Options:
 
  --3dlut-size                     alias [deprecated] for icc-3dlut-size

@@ -1,3 +1,9 @@
+---
+title: keyboard_as_keystrokes
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 https://live.warthunder.com/dl/ff7dda4b56d4349f03bcb55a2e4dddba77ba1976/
 I can't paste urls into war thunder on steam for linux
 

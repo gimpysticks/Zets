@@ -1,3 +1,9 @@
+---
+title: yazi_fm_keybindings
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 ```markdown
 # Yazi File Manager Keybindings Quick Reference
 

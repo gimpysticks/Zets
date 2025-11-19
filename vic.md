@@ -1,3 +1,9 @@
+---
+title: vic
+created: 2025-09-21
+modified: 2025-06-08
+---
+
 # Victorian Era Chat Conversation
 
 ## Initial Prompt

@@ -1,3 +1,9 @@
+---
+title: issue
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 USER:
 Password for 'https://gimpysticks@bitbucket.org': 
 remote: You may not have access to this wiki or it no longer exists in this workspace. If you think this wiki exists and you have access, make sure you are authenticated.

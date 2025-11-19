@@ -1,3 +1,9 @@
+---
+title: Latenight.ai
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 late.night_ai.art
 June AI Art Challenge
 

@@ -1,3 +1,9 @@
+---
+title: Tour_Of_Google_AI_STUDIO
+created: 2025-11-07
+modified: 2025-11-07
+---
+
 That's a great request! Google AI Studio is designed as an all-in-one environment for prototyping and experimenting with Google's Gemini family of generative AI models.
 
 Here is a guided tour, explaining each of the key elements as we go.

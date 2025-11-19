@@ -1,3 +1,9 @@
+---
+title: MJ-Template
+created: 2025-11-16
+modified: 2025-11-16
+---
+
 That's a perfect set of very generic and flexible prompts!
 
 Here is the final list:

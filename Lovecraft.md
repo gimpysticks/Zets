@@ -1,3 +1,9 @@
+---
+title: Lovecraft
+created: 2025-11-02
+modified: 2025-11-02
+---
+
 The source material provides an overview of H.P. Lovecraft's life, his profound influence on modern horror, his distinct writing style, and the controversial and biographical underpinnings of his recurring themes.
 
 ### Influence and Major Works

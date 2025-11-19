@@ -1,3 +1,9 @@
+---
+title: Telescope
+created: 2025-10-21
+modified: 2025-10-21
+---
+
 Telescope has been added to your Neovim configuration! Here's what I
   installed:
 
