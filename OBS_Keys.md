@@ -1,12 +1,6 @@
----
-title: OBS_Keys
-created: 2025-11-11
-modified: 2025-11-16
----
-
 # OBS Studio Hotkeys - Sticks Profile
 
-Generated on: 2025-11-16 21:59:26
+Generated on: 2025-11-22 19:22:15
 
 ## Global Hotkeys
 
@@ -33,14 +27,7 @@ Generated on: 2025-11-16 21:59:26
 
 ## Scene Hotkeys
 
-- **Switch to BRB:** Numpad 9
-- **Switch to Cam_Desktop_Linktree:** Numpad 4
-- **Switch to Cam_Desktop:** Numpad 1
-- **Switch to Cam_Desktop_User:** Numpad 3
 - **Switch to Desktop:** Numpad 2
-- **Switch to Full Camera Linktree:** Numpad 5
-- **Switch to Full Camera Username:** Numpad 6
-- **Switch to Starting Soon:** Numpad 0
 
 ## Source Show/Hide Hotkeys
 
