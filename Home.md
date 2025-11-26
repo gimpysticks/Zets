@@ -1,14 +1,10 @@
----
-title: Home
-created: 2025-11-16
-modified: 2025-11-16
----
 
 
 # Generated Links
 
 - [AI_plugin_commands](AI_plugin_commands.md)
 - [Air_Fried_Pork_Chop](Air_Fried_Pork_Chop.md)
+- [Batman66_Actors](Batman66_Actors.md)
 - [CLAUDE](CLAUDE.md)
 - [Carl-bot_Brief](Carl-bot_Brief.md)
 - [Change_git_master_to_main](Change_git_master_to_main.md)
@@ -18,6 +14,7 @@ modified: 2025-11-16
 - [Fudonutsunele_#WRB25](Fudonutsunele_#WRB25.md)
 - [GEMINI](GEMINI.md)
 - [Halloween_ideas](Halloween_ideas.md)
+- [Home](Home.md)
 - [1. 👻 *A Magician Among the Spirits* (1924)](Houdini_Books.md)
 - [How_to_Restart_Network_Manager_in_Ubuntu](How_to_Restart_Network_Manager_in_Ubuntu.md)
 - [JEDAINOV25](JEDAINOV25.md)
@@ -31,7 +28,7 @@ modified: 2025-11-16
 - [Miracle_Mongers_And_Their_Methods](Miracle_Mongers_And_Their_Methods.md)
 - [Movies](Movies.md)
 - [November2025Chal](November2025Chal.md)
-- [OBS_Keys](OBS_Keys.md)
+- [OBS Studio Hotkeys - Sticks Profile](OBS_Keys.md)
 - [Oct_2025](Oct_2025.md)
 - [Orca-keybinds](Orca-keybinds.md)
 - [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
@@ -46,6 +43,8 @@ modified: 2025-11-16
 - [Telegram_Client](Telegram_Client.md)
 - [Telescope](Telescope.md)
 - [Tour_Of_Google_AI_STUDIO](Tour_Of_Google_AI_STUDIO.md)
+- [Victorian-Edwardian-image_ideas](Victorian-Edwardian-image_ideas.md)
+- [Victorian_Entertainment](Victorian_Entertainment.md)
 - [Vim_Keybindings](Vim_Keybindings.md)
 - [VivaBarnes_urls](VivaBarnes_urls.md)
 - [Vivaldi_command_line_switches](Vivaldi_command_line_switches.md)
@@ -174,7 +173,6 @@ modified: 2025-11-16
 - [surfkeysmd](surfkeysmd.md)
 - [surfshark_reply](surfshark_reply.md)
 - [tarot_cards_meanings](tarot_cards_meanings.md)
-- [Markdown](temp.md)
 - [test](test.md)
 - [thelio_virtualization](thelio_virtualization.md)
 - [ting_recovery_codes](ting_recovery_codes.md)
