@@ -82,7 +82,7 @@ Reaction Roles are a powerful engagement tool that allows users to opt into role
   1. In the dashboard's "Reaction Roles" section, initiate the creation of a new reaction role setup.
   2. Specify the target channel where the message will be posted (e.g., #roles).
   3. Choose to have Carl-bot create a new message or use the ID of an existing one.
-  4. Create entries by pairing a specific Emoji with a corresponding Role to be assigned (e.g., 🎨 emoji for the @Artist role). This is repeated for all desired roles.
+  4. Create entries by pairing a specific Emoji with a corresponding Role to be assigned (e.g., artist palette emoji for the @Artist role). This is repeated for all desired roles.
   5. Optionally, configure the Mode. The "Unique" mode allows a user to select only one role from the list, while the "Default" mode allows for multiple selections.
   6. Deploy the message, which Carl-bot then posts to the designated channel with the configured emoji reactions.
 

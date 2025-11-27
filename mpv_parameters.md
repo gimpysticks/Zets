@@ -924,7 +924,7 @@ Options:
  --term-status-msg                String (default: )
  --term-title                     String (default: )
  --terminal                       Flag (default: yes)
- --title                          String (default: ${?media-title:${media-title}}${!media-title:No file} - mpv)
+ --title                          String (default: mpv-title - mpv)
  --tls-ca-file                    String (default: ) [file]
  --tls-cert-file                  String (default: ) [file]
  --tls-key-file                   String (default: ) [file]

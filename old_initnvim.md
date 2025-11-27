@@ -45,7 +45,7 @@ set rtp+=/home/sticks/.fzf/bin/fzf
 let mapleader = "\<Space>"
 "
 function ClearRegs()
-  let regs=split('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/-"', '\zs')
+  let regs=split(\'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/-"', '\\\\zs\')
   for r in regs
     call setreg(r, @_)
   endfor
@@ -198,7 +198,7 @@ let g:mkdp_path_to_chrome = ""
 let $FZF_DEFAULT_OPTS='--reverse --preview-window=down'
 " Let <Tab> also do completion
 inoremap <silent><expr> <Tab>
-\ pumvisible() ? "\<C-n>" :
+\\ pumvisible() ? "\\<C-n>" :
 " Close the documentation window when completion is done
 autocmd InsertLeave,CompleteDone * if pumvisible() == 0 | pclose | endif
 autocmd BufWritePre * :%s/\s\+$//e

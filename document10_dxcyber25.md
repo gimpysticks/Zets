@@ -7,7 +7,7 @@ modified: 2025-10-21
 @document10_
 #dxcyber25
 
-✨ **Daily Prompts – July 1–31** ✨
+**Daily Prompts – July 1–31**
 
 1. Aries
 2. Taurus
@@ -43,6 +43,6 @@ modified: 2025-10-21
 
 ---
 
-🔥 Use these prompts for art, writing, or digital creations.
-🧠 Tag your work with **#dxcyber25** to be featured!
+Use these prompts for art, writing, or digital creations.
+Tag your work with **#dxcyber25** to be featured!
 

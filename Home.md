@@ -1,4 +1,4 @@
-
+[](.md)
 
 # Generated Links
 
@@ -14,7 +14,7 @@
 - [Fudonutsunele_#WRB25](Fudonutsunele_#WRB25.md)
 - [GEMINI](GEMINI.md)
 - [Halloween_ideas](Halloween_ideas.md)
-- [Home](Home.md)
+- [Generated Links](Home.md)
 - [1. 👻 *A Magician Among the Spirits* (1924)](Houdini_Books.md)
 - [How_to_Restart_Network_Manager_in_Ubuntu](How_to_Restart_Network_Manager_in_Ubuntu.md)
 - [JEDAINOV25](JEDAINOV25.md)
@@ -45,6 +45,7 @@
 - [Tour_Of_Google_AI_STUDIO](Tour_Of_Google_AI_STUDIO.md)
 - [Victorian-Edwardian-image_ideas](Victorian-Edwardian-image_ideas.md)
 - [Victorian_Entertainment](Victorian_Entertainment.md)
+- [📝 Vimwiki Commands and Key Bindings](VimWiki_Commands.md)
 - [Vim_Keybindings](Vim_Keybindings.md)
 - [VivaBarnes_urls](VivaBarnes_urls.md)
 - [Vivaldi_command_line_switches](Vivaldi_command_line_switches.md)
@@ -54,6 +55,7 @@
 - [YippeeLetterXY25](YippeeLetterXY25.md)
 - [aukey_tp21_controls](aukey_tp21_controls.md)
 - [baked_pork_chops](baked_pork_chops.md)
+- [bald-evil](bald-evil.md)
 - [bash_expansion_modifiers](bash_expansion_modifiers.md)
 - [bash_files_sort_by](bash_files_sort_by.md)
 - [bash_loop_counter_example](bash_loop_counter_example.md)

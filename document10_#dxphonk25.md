@@ -58,7 +58,7 @@ Oct 14. Final round (zecki, Leche)
 @document10
 #dxphonk25
 
-Oct 15. Aircraft (Dxrk $\text{ダーク}$)
+Oct 15. Aircraft (Dxrk)
 @document10
 #dxphonk25
 
