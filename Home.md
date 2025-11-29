@@ -1,7 +1,4 @@
-[](.md)
-
-# Generated Links
-
+- [AI_Tools](AI_Tools.md)
 - [AI_plugin_commands](AI_plugin_commands.md)
 - [Air_Fried_Pork_Chop](Air_Fried_Pork_Chop.md)
 - [Batman66_Actors](Batman66_Actors.md)
@@ -31,6 +28,7 @@
 - [OBS Studio Hotkeys - Sticks Profile](OBS_Keys.md)
 - [Oct_2025](Oct_2025.md)
 - [Orca-keybinds](Orca-keybinds.md)
+- [💿 Installation Strategy: OS on 500GB, Home on 2TB](Partitioning.md)
 - [Plugin_Explainations_Keybindings](Plugin_Explainations_Keybindings.md)
 - [Remove_Chrome](Remove_Chrome.md)
 - [Rippaverse](Rippaverse.md)
