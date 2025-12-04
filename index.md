@@ -1,3 +1,4 @@
+
 - [aiyuletime25](AIYuletide25.md)
 - [AI_Tools](AI_Tools.md)
 - [AI_plugin_commands](AI_plugin_commands.md)
@@ -8,6 +9,7 @@
 - [Change_git_master_to_main](Change_git_master_to_main.md)
 - [Delete_Trailing_Space_In_Vim](Delete_Trailing_Space_In_Vim.md)
 - [Drivein_bacon_breakfast_toasters_at_home](Drivein_bacon_breakfast_toasters_at_home.md)
+- [Fudonutsunele_#WRB25](Fudonutsunele_#WRB25.md)
 - [GEMINI](GEMINI.md)
 - [Halloween_ideas](Halloween_ideas.md)
 - [1. 👻 *A Magician Among the Spirits* (1924)](Houdini_Books.md)
@@ -77,8 +79,6 @@
 - [display_vi_or_emacs_mode](display_vi_or_emacs_mode.md)
 - [docker_detach](docker_detach.md)
 - [docker_hub_login](docker_hub_login.md)
-- [document10_#dxphonk25](document10_#dxphonk25.md)
-- [document10_dxcyber25](document10_dxcyber25.md)
 - [dr_spiegel_jd_post](dr_spiegel_jd_post.md)
 - [extract_cookies_code](extract_cookies_code.md)
 - [extract_lines_to_file](extract_lines_to_file.md)
@@ -95,6 +95,7 @@
 - [htop_enable_f10](htop_enable_f10.md)
 - [ignore-noignore-case](ignore-noignore-case.md)
 - [incremented_numbers_in_vim](incremented_numbers_in_vim.md)
+- [index](index.md)
 - [insert-edit-mappings](insert-edit-mappings.md)
 - [install_notify_send](install_notify_send.md)
 - [install_spice_guest_editions](install_spice_guest_editions.md)
@@ -210,3 +211,6 @@
 - [youtube_urls](youtube_urls.md)
 - [zathura_keybinds](zathura_keybinds.md)
 - [zets_workflow](zets_workflow.md)
+
+# Generated Tags
+
