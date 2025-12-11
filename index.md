@@ -1,4 +1,7 @@
 
+
+# Generated Links
+
 - [aiyuletime25](AIYuletide25.md)
 - [AI_Tools](AI_Tools.md)
 - [AI_plugin_commands](AI_plugin_commands.md)
@@ -54,6 +57,7 @@
 - [Windocker](Windocker.md)
 - [Yazi_FM_Keybindings](Yazi_FM_Keybindings.md)
 - [YippeeLetterXY25](YippeeLetterXY25.md)
+- [ahenodG16](ahenodG16.md)
 - [aukey_tp21_controls](aukey_tp21_controls.md)
 - [baked_pork_chops](baked_pork_chops.md)
 - [bald-evil](bald-evil.md)
@@ -146,6 +150,7 @@
 - [pop_os_links](pop_os_links.md)
 - [pork_chop_rub](pork_chop_rub.md)
 - [positional_params](positional_params.md)
+- [⚙️ Post-Installation Scripts](post_Install_script.md)
 - [post_to_archive_ph](post_to_archive_ph.md)
 - [pour_over_coffee_ratio](pour_over_coffee_ratio.md)
 - [print_local_time_in_tz](print_local_time_in_tz.md)
@@ -157,6 +162,7 @@
 - [recovery-codes](recovery-codes.md)
 - [regex_email](regex_email.md)
 - [regexs](regexs.md)
+- [reinstall_prep](reinstall_prep.md)
 - [remove_multiple_spaces_in_vim](remove_multiple_spaces_in_vim.md)
 - [remove_spaces_in_filenames](remove_spaces_in_filenames.md)
 - [replace_ctrl_m_space](replace_ctrl_m_space.md)
@@ -211,6 +217,3 @@
 - [youtube_urls](youtube_urls.md)
 - [zathura_keybinds](zathura_keybinds.md)
 - [zets_workflow](zets_workflow.md)
-
-# Generated Tags
-
