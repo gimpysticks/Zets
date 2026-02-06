@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a great choice! Harry Houdini wrote several influential works, most notably in the areas of magic history and spiritualism exposé.
 
 Here are three of his other most famous and important books:

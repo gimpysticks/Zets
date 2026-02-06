@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 NAME SIZE TYPE MOUNTPOINT UUID
 loop0 104.2M loop /snap/core/17247  
 loop1 50.9M loop /snap/snapd/25577  

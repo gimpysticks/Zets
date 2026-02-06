@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a great idea for a complete reference! Including the ammunition selection keys (1, 2, 3) provides the full context of the Naval Action Bar (Keys 1 through 8+).
 
 Here is the comprehensive list of the standard Naval Action Bar icons and their functions in War Thunder's Blue Water Battles:

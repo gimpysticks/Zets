@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 To find files in a specific directory (like your "mid Journey" folder) based on their age, the `find` command is the perfect tool. Since your directory name contains a space, you'll need to use quotes to ensure Linux handles the path correctly.
 
 ### The Command

@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a great idea! Combining the information about the popular figures with the cultural context of the Music Hall will give you a comprehensive overview of Victorian-era entertainment.
 
 Here is the combined response.

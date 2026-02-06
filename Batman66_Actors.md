@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 | Character Name | Starting/Primary Actor | Notes |
 |---|---|---|
 | Bruce Wayne/Batman | Adam West | Starred in all episodes and the 1966 movie. |

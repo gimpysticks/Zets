@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That is an **excellent** and often simpler approach\! Installing Pop\!\_OS fresh and configuring the separate `/home` partition during the installation process is the most robust way to achieve your goal, as it sets up the necessary mounting in `/etc/fstab` right from the start.
 
 Here is a guide focusing specifically on how to allocate the partitions during the Pop\!\_OS installation, assuming you are using the **Custom (Advanced)** option.

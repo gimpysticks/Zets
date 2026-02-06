@@ -1,3 +1,6 @@
+---
+created: 2026-01-16
+---
 When you share a multi-image post (a **Carousel**) to your Story, it doesn't automatically send every individual image as its own slide. Instead, Instagram creates a **single Story slide** that acts as a "teaser" for the entire post.
 
 Here is exactly how it works and your options for sharing more:

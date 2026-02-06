@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Factory Reset for AHENOD G16 Music Player
 
 To perform a factory reset on the AHENOD G16 music player, follow these steps:

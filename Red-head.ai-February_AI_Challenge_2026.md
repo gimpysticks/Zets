@@ -1,3 +1,6 @@
+---
+created: 2026-01-31
+---
 # February AI Challenge 2026
 
 ## Week 1: Classic Valentine Energy

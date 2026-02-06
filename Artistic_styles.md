@@ -1,3 +1,6 @@
+---
+created: 2026-01-28
+---
 First there's some basic, simple methods to start us off:
 
 A drawing of [subject]
@@ -48,4 +51,3 @@ Kinetic Art
 Modernist Sculpture
 Wood sculpture
 Marble statue
-

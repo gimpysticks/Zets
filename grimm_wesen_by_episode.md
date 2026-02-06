@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 # Grimm – Wesen by Episode
 
 **Scope:** Each episode includes a concise story synopsis and the **primary featured Wesen** (major antagonists or story-driving creatures). Background or incidental Wesen are not exhaustively listed.

@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a great workflow to master\! Using the Gemini CLI directly inside Neovim allows you to harness its power without leaving your editor, especially when you need to send code for analysis or insert generated code.
 
 There are two primary ways to interact with the shell from within Neovim. The first is non-interactive (command-line mode), and the second is using the terminal buffer.

@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Archetype,Core Desire/Goal,Midjourney Visual Influence
 The Innocent,To experience paradise/happiness.,"Light, soft, pastel colors, nature, simple, wholesome, nostalgic imagery."
 The Explorer,The freedom to find out who you are.,"Wide-open spaces, travel, nature, rugged attire, maps, adventure."

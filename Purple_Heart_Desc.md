@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 The Purple Heart is one of the most aesthetically complex and symbolic decorations in the United States military. Its design is split between the **obverse** (front) and the **reverse** (back), combining historical heraldry with modern sculpture.
 
 ### 1. The Obverse (Front)

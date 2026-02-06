@@ -1,3 +1,6 @@
+---
+created: 2026-01-16
+---
 # War Thunder Keybindings
 
 This document lists the keybindings configured for War Thunder.

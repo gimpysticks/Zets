@@ -1,3 +1,6 @@
+---
+created: 2026-01-28
+---
 To stop Alexa+ from engaging in extra idle chit-chat, unnecessary follow-ups, or overly verbose responses after answering your query (a common complaint with the more conversational AI-powered Alexa+ updates), try these main fixes. The most effective one for reducing extra talking is **Brief Mode**.
 
 ### Enable Brief Mode (Primary Solution)

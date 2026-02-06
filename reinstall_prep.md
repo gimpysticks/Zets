@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a very practical choice\! Placing utility scripts in `~/bin` is a great way to keep your home directory organized and ensure the scripts are accessible (assuming `~/bin` is in your `$PATH`, which is common on modern Linux distributions).
 
 Here is the revised plan and the updated script, designed to save the preparation script and its output lists directly into the `~/bin` directory structure.

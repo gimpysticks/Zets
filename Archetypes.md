@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Certainly! I can format the Midjourney AI archetypes from your file into a clear and organized list for you.
 
 Here is the list of **12 Midjourney AI Archetypes** inspired by brand psychology, perfect for sparking vivid prompts:

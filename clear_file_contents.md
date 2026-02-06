@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 To clear the entire content of a file while keeping the file itself (retaining the filename) in Neovim, you have a few options depending on whether you are already inside Neovim or want to do it from the terminal.
 
 ### 1. From within Neovim (Ex-Command)

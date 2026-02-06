@@ -1,3 +1,6 @@
+---
+created: 2026-01-27
+---
 # xclip Clipboard Commands (Linux)
 
 This document collects the most common and useful ways to copy text to the clipboard using **xclip**.
@@ -69,4 +72,3 @@ echo "hello world" | clip
 ---
 
 *Markdown-friendly and suitable for Standard Notes, Obsidian, or Git-based dotfiles.*
-

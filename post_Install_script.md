@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 That's a great next step\! Having the post-installation script ready will make your reinstall process much faster and more automated.
 
 Below are the three separate scripts needed to perform the reinstallation process for Debian (APT), Flatpak, and Snap packages, assuming your backed-up lists are accessible on the new system (e.g., in a flash drive mounted at `/mnt/backup/`).

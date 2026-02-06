@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 **Victorian Era (c. 1837-1901) Prompt Ideas:**
 1.  **Industrial Cityscape:** A bustling Victorian London street at dusk, gas lamps illuminating cobblestone, horse-drawn carriages, well-dressed pedestrians, and distant factory smoke stacks silhouetted against an orange sky.
 2.  **Grand Ball Scene:** A lavish Victorian ballroom, couples waltzing in elaborate gowns and tailcoats, crystal chandeliers sparkling, ornate wallpaper, and a string quartet playing in the background.

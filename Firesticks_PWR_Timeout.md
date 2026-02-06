@@ -1,3 +1,6 @@
+---
+created: 2026-01-16
+---
 Since you're on **Pop!_OS**, you have the best environment for this. You don't need any bulky software; you can do this directly through your terminal in about 60 seconds.
 
 ### 1. Install ADB

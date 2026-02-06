@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Excellent choice! The onion-wrapped version adds a fantastic sweetness, crunch, and aroma that really elevates the Flying Dutchman experience.
 
 Here is the detailed recipe for the **Onion-Wrapped Flying Dutchman**, including instructions for making a simple copycat spread.

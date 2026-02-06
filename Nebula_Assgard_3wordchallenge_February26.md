@@ -1,111 +1,158 @@
-
 ---
-id: 202602-3wordchallenge-nebulaasgard
+id: 20260201-3wordchallenge-nebulaasgard
 title: "#3wordchallenge — February"
 host: "@nebulaasgard"
+hashtag: "#3wordchallenge"
+month: February
+year: 2026
+created: 2026-02-01
 tags:
   - 3wordchallenge
-  - february
+  - nebulaasgard
   - daily-prompts
   - ai-art
   - writing
-created: 2026-02-01
+  - zettelkasten
 ---
 
-# #3wordchallenge — February  
-**Host:** @nebulaasgard
+## #3wordchallenge — Daily Prompts
 
-A daily three-word creative challenge for February.  
-Use each day’s words as inspiration for writing, AI art, journaling, or visual prompts.
+**February 01**  
+First, breath, light.  
+@nebulaasgard  
+#3wordchallenge
 
----
+**February 02**  
+Glances, gold, honey.  
+@nebulaasgard  
+#3wordchallenge
 
-## Daily Prompts
+**February 03**  
+Paper, ink, promises.  
+@nebulaasgard  
+#3wordchallenge
 
-### 01 — Sunday  
-**First, breath, light.**
+**February 04**  
+Beats, rhythm, fire.  
+@nebulaasgard  
+#3wordchallenge
 
-### 02 — Monday  
-**Glances, gold, honey.**
+**February 05**  
+Souls, free, wind.  
+@nebulaasgard  
+#3wordchallenge
 
-### 03 — Tuesday  
-**Paper, ink, promises.**
+**February 06**  
+Sweet, waiting, calm.  
+@nebulaasgard  
+#3wordchallenge
 
-### 04 — Wednesday  
-**Beats, rhythm, fire.**
+**February 07**  
+Secrets, under, lock.  
+@nebulaasgard  
+#3wordchallenge
 
-### 05 — Thursday  
-**Souls, free, wind.**
+**February 08**  
+Magic, dust, stars.  
+@nebulaasgard  
+#3wordchallenge
 
-### 06 — Friday  
-**Sweet, waiting, calm.**
+**February 09**  
+Lips, wine, crimson.  
+@nebulaasgard  
+#3wordchallenge
 
-### 07 — Saturday  
-**Secrets, under, lock.**
+**February 10**  
+Skin, silk, heat.  
+@nebulaasgard  
+#3wordchallenge
 
-### 08 — Sunday  
-**Magic, dust, stars.**
+**February 11**  
+Night, moon, lovers.  
+@nebulaasgard  
+#3wordchallenge
 
-### 09 — Monday  
-**Lips, wine, crimson.**
+**February 12**  
+Roses, thorns, blood.  
+@nebulaasgard  
+#3wordchallenge
 
-### 10 — Tuesday  
-**Skin, silk, heat.**
+**February 13**  
+Desire, pure, wild.  
+@nebulaasgard  
+#3wordchallenge
 
-### 11 — Wednesday  
-**Night, moon, lovers.**
+**February 14**  
+Eternal, Valentine, mine.  
+@nebulaasgard  
+#3wordchallenge
 
-### 12 — Thursday  
-**Roses, thorns, blood.**
+**February 15**  
+Ashes, cold, silence.  
+@nebulaasgard  
+#3wordchallenge
 
-### 13 — Friday  
-**Desire, pure, wild.**
+**February 16**  
+Angel, fallen, broken.  
+@nebulaasgard  
+#3wordchallenge
 
-### 14 — Saturday  
-**Eternal, Valentine, mine.**
+**February 17**  
+Tears, crystal, shattered.  
+@nebulaasgard  
+#3wordchallenge
 
-### 15 — Sunday  
-**Ashes, cold, silence.**
+**February 18**  
+Shadows, fleeting, love.  
+@nebulaasgard  
+#3wordchallenge
 
-### 16 — Monday  
-**Angel, fallen, broken.**
+**February 19**  
+Wounds, that, heal.  
+@nebulaasgard  
+#3wordchallenge
 
-### 17 — Tuesday  
-**Tears, crystal, shattered.**
+**February 20**  
+Scars, with, history.  
+@nebulaasgard  
+#3wordchallenge
 
-### 18 — Wednesday  
-**Shadows, fleeting, love.**
+**February 21**  
+Oblivion, grey, mist.  
+@nebulaasgard  
+#3wordchallenge
 
-### 19 — Thursday  
-**Wounds, that, heal.**
+**February 22**  
+Steel, keeps, oath.  
+@nebulaasgard  
+#3wordchallenge
 
-### 20 — Friday  
-**Scars, with, history.**
+**February 23**  
+Warrior, guards, heart.  
+@nebulaasgard  
+#3wordchallenge
 
-### 21 — Saturday  
-**Oblivion, grey, mist.**
+**February 24**  
+Shield, against, pain.  
+@nebulaasgard  
+#3wordchallenge
 
-### 22 — Sunday  
-**Steel, keeps, oath.**
+**February 25**  
+Pulse, neon, forever.  
+@nebulaasgard  
+#3wordchallenge
 
-### 23 — Monday  
-**Warrior, guards, heart.**
+**February 26**  
+Wires, souls, connected.  
+@nebulaasgard  
+#3wordchallenge
 
-### 24 — Tuesday  
-**Shield, against, pain.**
+**February 27**  
+Beyond, all, time.  
+@nebulaasgard  
+#3wordchallenge
 
-### 25 — Wednesday  
-**Pulse, neon, forever.**
-
-### 26 — Thursday  
-**Wires, souls, connected.**
-
-### 27 — Friday  
-**Beyond, all, time.**
-
-### 28 — Saturday  
-**Rebirth, through, flames.**
-
----
-
-*Celebrate hearts day with your loved ones.*
+**February 28**  
+Rebirth, through, flames.  
+@nebulaasgard  
+#3wordchallenge

@@ -1,3 +1,6 @@
+---
+created: 2026-01-30
+---
 # Neovim AI Plugin Usage
 
 ## Installed AI Plugins

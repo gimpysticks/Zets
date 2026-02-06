@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 # OBS Studio Hotkeys - Sticks Profile
 
 Generated on: 2025-11-22 19:22:15

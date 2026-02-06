@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Here are the direct links to view live weather and traffic cameras in and around Northern Kentucky:
 
 ### **Road and Traffic Cameras (KYTC)**

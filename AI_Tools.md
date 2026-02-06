@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 
 * **Ideogram** – Ultra-realistic images with perfect text.
 * **Midjourney** – High-end visuals for brands & thumbnails.

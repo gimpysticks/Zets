@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Here is the list of Vimwiki commands and key bindings, reformatted into a clear, categorized table format, with duplicate entries removed.
 
 ## 📝 Vimwiki Commands and Key Bindings

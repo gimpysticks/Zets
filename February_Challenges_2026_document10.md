@@ -1,3 +1,6 @@
+---
+created: 2026-01-31
+---
 # February Challenges 2026
 
 - **Day 1:** Paper toss  

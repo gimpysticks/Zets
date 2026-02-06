@@ -1,3 +1,6 @@
+---
+created: 2026-01-30
+---
 # OpenAI Tokens and NVim AI Plugins
 
 ## Date: 2026-01-30

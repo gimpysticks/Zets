@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 This issue with the ThinkCentre M715q (especially the "Tiny" models) is often related to a power-state glitch in the USB controllers or a specific BIOS setting called **Smart USB Protection**.
 
 Here is a troubleshooting guide ordered from the most likely "quick fixes" to deeper hardware resets.

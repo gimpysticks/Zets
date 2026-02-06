@@ -1,3 +1,6 @@
+---
+created: 2026-01-06
+---
 Character Name,Source Media,Role/Archetype,Key Traits for Study
 Count Orlok,Nosferatu (1922 film),The Original Cinematic Vampire/Monster,"Bald, rat-like, and pale. A foundational example of using unnatural appearance (including pointed features) to signify monstrous evil."
 Lord Voldemort,Harry Potter series,Dark Wizard/Supervillain,"While often described as having an inhuman, ""snake-like"" face (with no nose), his depiction in the films sometimes includes slightly pointed ears to go with his baldness, emphasizing his transformation away from humanity."
