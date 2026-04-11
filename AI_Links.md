@@ -1,3 +1,8 @@
+---
+title: AI_Links
+created: 2026-04-08
+---
+
 Here are the URLs extracted from the image in Markdown format:
 
 | Topic | URL |

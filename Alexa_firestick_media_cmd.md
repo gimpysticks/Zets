@@ -1,3 +1,8 @@
+---
+title: Alexa_firestick_media_cmd
+created: 2026-04-01
+---
+
 Here’s your content formatted as a clean vertical list:
 
 Play

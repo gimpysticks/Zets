@@ -1,3 +1,8 @@
+---
+title: Google_Advanced_Search
+created: 2026-03-01
+---
+
 
 Here’s a **prioritized list of useful Google search URL/syntax types and search operators** referenced or implied by the *“Google Has a Secret Reference Desk”* article — plus a few others you can combine or use for more refined research: ([cardcatalogforlife.substack.com][1])
 

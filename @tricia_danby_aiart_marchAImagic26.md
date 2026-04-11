@@ -1,3 +1,8 @@
+---
+title: @tricia_danby_aiart_marchAImagic26
+created: 2026-03-01
+---
+
 
 March 1
 Bright Pink & Byzantine

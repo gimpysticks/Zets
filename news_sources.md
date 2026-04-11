@@ -1,3 +1,8 @@
+---
+title: news_sources
+created: 2026-04-07
+---
+
 Here's the **updated and cleaned list of sources** for your regular afternoon news briefings (Northern Kentucky/Tri-State + national/international).
 
 I have added the following **alternative web-based news sources** that align with your preferences (non-mainstream, independent or conservative-leaning outlets commonly used as alternatives to legacy media). These are drawn from patterns in our conversation and common recommendations for alternative coverage:

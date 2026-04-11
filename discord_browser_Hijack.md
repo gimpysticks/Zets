@@ -1,3 +1,8 @@
+---
+title: discord_browser_Hijack
+created: 2026-03-04
+---
+
 Let me check what `xdg-open` is actually routing Discord URLs to — the Discord Flatpak may have registered itself as a handler for `discord.com` URLs:
 
 **Command Executed:**

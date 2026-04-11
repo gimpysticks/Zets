@@ -1,3 +1,8 @@
+---
+title: @nickocreates.ai_#mythicapril2026
+created: 2026-04-02
+---
+
 April
 
 April 1  

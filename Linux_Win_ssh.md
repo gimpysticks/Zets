@@ -1,3 +1,8 @@
+---
+title: Linux_Win_ssh
+created: 2026-03-28
+---
+
 To connect from Linux to Windows via SSH:
 
 1. On Windows machine:

@@ -1,3 +1,8 @@
+---
+title: Flourless_Muffins
+created: 2026-03-02
+---
+
 
 Here's a simple, popular **flourless blueberry muffin recipe** using exactly the ingredients you mentioned: peanut butter, blueberries, eggs, and bananas. This is a healthy, gluten-free, naturally sweetened option that relies on mashed bananas for moisture and sweetness, peanut butter for structure and richness, and eggs to bind everything.
 

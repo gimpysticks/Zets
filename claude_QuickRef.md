@@ -1,3 +1,8 @@
+---
+title: claude_QuickRef
+created: 2026-04-08
+---
+
 # The Claude Code Cheatsheet
 **Updated March 2026**
 

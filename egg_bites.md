@@ -1,3 +1,8 @@
+---
+title: egg_bites
+created: 2026-03-15
+---
+
 
 Temperature,Time,Texture
 300°F (150°C),8–10 minutes,Creamy and tender

@@ -1,3 +1,8 @@
+---
+title: lory.ai.artApr26
+created: 2026-03-31
+---
+
 
 1
 Akita Inu + Apple + Dark green

@@ -1,3 +1,8 @@
+---
+title: ChatGPT_Prompts
+created: 2026-04-08
+---
+
 
 Here’s a clean Markdown version you can drop straight into your notes:
 

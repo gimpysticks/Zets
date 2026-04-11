@@ -1,3 +1,8 @@
+---
+title: @red.head.ai_redheadaiapril26
+created: 2026-04-01
+---
+
 
 Here’s the **clean text conversion + structured category lists** extracted from your images, ready for building MidJourney prompts.
 

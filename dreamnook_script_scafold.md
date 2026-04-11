@@ -1,3 +1,8 @@
+---
+title: dreamnook_script_scafold
+created: 2026-03-10
+---
+
 Here is the text from the left portion of the image:
 
 **REELS SCRIPT THAT HOLDS ATTENTION**

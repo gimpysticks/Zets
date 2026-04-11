@@ -1,3 +1,8 @@
+---
+title: Irish_Dubstep
+created: 2026-04-05
+---
+
 
 The Green Lads are a French duo (expanded live) known for blending traditional **Irish/Celtic folk** (violins, reels, uilleann pipes) with modern **electronic dance** elements, creating upbeat, party-friendly "electro-Celtic" or "Irish dubstep" vibes. Their sound mixes energetic folk melodies with EDM drops and rhythms.
 

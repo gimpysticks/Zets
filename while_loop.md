@@ -1,3 +1,8 @@
+---
+title: while_loop
+created: 2026-03-01
+---
+
 
 To loop through a text file and run a command on every line in Bash, the most robust method is using a `while` loop combined with `read`.
 

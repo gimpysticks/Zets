@@ -1,3 +1,8 @@
+---
+title: Victorian horror prompts
+created: 2026-02-11
+---
+
 
 Perfect — I’ve flattened everything into **one continuous master list** so you can reference a single number when building prompts.
 
