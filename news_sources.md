@@ -24,5 +24,6 @@ I have added the following **alternative web-based news sources** that align wit
 - **One America News Network (OAN)**: https://www.oann.com/  
 - **The Epoch Times**: https://www.theepochtimes.com/  
 - **Newsmax**: https://www.newsmax.com/
+- **Punchbowl News**: https://punchbowl.news/
 
 This keeps the list focused and trust-aligned for your use in Northern Kentucky briefings, with strong local Tri-State coverage (WKRC emphasized) and a selection of popular alternative web-based outlets for national/international perspective.
