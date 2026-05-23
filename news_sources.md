@@ -18,7 +18,6 @@ I have added the following **alternative web-based news sources** that align wit
 ### National / Alternative Web-Based Sources
 - **The White House**: https://www.whitehouse.gov/  
 - **The Western Journal**: https://www.westernjournal.com/  
-- **The Daily Wire**: https://www.dailywire.com/  
 - **The Gateway Pundit**: https://www.thegatewaypundit.com/  
 - **Breitbart**: https://www.breitbart.com/  
 - **One America News Network (OAN)**: https://www.oann.com/  
