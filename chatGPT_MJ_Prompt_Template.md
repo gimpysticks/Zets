@@ -9,35 +9,36 @@ default_profile:
   - lzdppsy
 
 primary_worlds:
-  - Cathedral Engines
-  - Iron Revenants
-  - The Ashen Court
-  - The Veiled Choir
-  - The Hollow Carnival
-  - The Velvet Signal Exchange
-  - The Crimson Masquerade
-  - The Ether Foundry
-  - The Bone Orchard
-  - The Silent Meridian
-  - The Gloamwater Engineworks
-  - The Hollow Meridian Station
-  - The Obsidian Orrery
-  - The Sepulcher Tideworks
-  - The Mourning Bell Conservatory
-  - The Blackglass Aviary
-  - The Iron Tapestry Hall
-  - The Phantom Relay Towers
-  - The Lantern Spine Archives
-  - The Ashfall Pneumatics
-  - The Dreadwake Conservatory
-  - The Cathedral of Static
-  - The Bonewire Telegraphium
-  - The Pale Ember Lighthouse
-  - The Etheric Floodgates
-  - The Veilthorn Greenhouse
-  - The Sovereign Mausoleum Engines
-  - The Crimson Signal Bastion
-  - The Hollow Sun Foundry
+  - The Sable Meridian Vault
+  - The Ivory Eclipse Bastion
+  - The Ironwake Sanctum
+  - The Hollow Choir Transit
+  - The Gilded Ossuary Engine
+  - The Veilflare Citadel
+  - The Mourning Atlas Station
+  - The Blackwater Reliquary Gardens
+  - The Sepia Leviathan Docks
+  - The Ashwake Pneumatic Court
+  - The Thornglass Observatory
+  - The Pale Monarch Foundry
+  - The Cathedral of Drowned Signals
+  - The Obsidian Lantern District
+  - The Velvet Furnace Conservatory
+  - The Bonecoil Lighthouse
+  - The Etherwake Tribunal
+  - The Hollow Ember Archives
+  - The Brass Oracle Bastion
+  - The Wraithbone Causeway
+  - The Crimson Tide Basilica
+  - The Silent Halo Engineworks
+  - The Mourning Static Cathedral
+  - The Veilborne Treasury
+  - The Iron Sepulcher Atrium
+  - The Astral Floodgate Reliquary
+  - The Gloamspire Transit Ministry
+  - The Funeral Bloom Menagerie
+  - The Black Halo Observatory
+  - The Pale Meridian Court
 
 
 platform_targets:
@@ -46,16 +47,46 @@ platform_targets:
   - serial storytelling
 
 archetype_factions:
-  - Lantern Pilgrims
-  - Bone Cartographers
-  - Cathedral Mechanics
-  - Ash Priests
-  - Velvet Oracles
-  - Revenant Knights
-  - Choir Saints
-  - Blackwater Smugglers
-  - Hollow Performers
-  - Sepulcher Engineers
+  - Eclipse Couriers
+  - Velvet Navigators
+  - Boneveil Archivists
+  - Ashwake Surveyors
+  - Lantern Magistrates
+  - Hollow Signal Keepers
+  - Thornglass Alchemists
+  - Revenant Navigators
+  - Mourning Tide Collectors
+  - Black Halo Astronomers
+  - Cathedral Survey Clerks
+  - Veilborne Smugglers
+  - The Gilded Funeral Choir
+  - Sepia Transit Wardens
+  - Wraith Cartel Pilots
+  - Etheric Beacon Tenders
+  - The Crimson Census
+  - Pale Harbor Ministers
+  - Obsidian Weather Monks
+  - Iron Reliquary Pilgrims
+  - Bonewire Translators
+  - The Lantern Tribunal
+  - Hollow Atlas Couriers
+  - Ashen Lighthouse Custodians
+  - The Drowned Telegraph Society
+  - Funeral Garden Keepers
+  - Brass Vein Architects
+  - The Silent Observatory Order
+  - Blackwater Tide Ministers
+  - Veilthorn Apothecaries
+  - The Mourning Cartographers
+  - Pneumatic Choir Engineers
+  - Ritual Freight Conductors
+  - The Sable Meridian Clergy
+  - Spectral Customs Officers
+  - Ivory Signal Brokers
+  - The Hollow Court Messengers
+  - Gloamspire Navigators
+  - Reliquary Excavators
+  - The Pale Ember Conservators
 
 world_aliases:
   - Blackwater
@@ -194,44 +225,110 @@ Eclipse furnaces, celestial smelting halls, ritual metalworking chambers, monume
 
 ## Secondary / Supplemental Worlds
 
-### Rootborn
-Organic fantasy, crystal flowers, fungal ecosystems, biomechanical flora, alien botany, surreal natural forms, dreamlike landscapes.
+### The Astral Census Bureau
+Celestial bureaucracy, ritual astronomy records, eclipse ledgers, cosmic administration halls, monumental observatory governance.
 
-### Lantern Keepers
-Strange Victorian wanderers, animal explorers, lantern bearers, mysterious travelers, atmospheric exploration, quiet cinematic storytelling.
+### The Hollow Tide Ministry
+Flooded civic chambers, maritime bureaucracy, drowned industrial governance, plague-era harbor administration.
 
-### Blackwork Relics
-Tattoo-inspired symbolism, occult flash art, dark pop surrealism, graphic blackwork aesthetics, symbolic iconography, ritual motifs.
+### The Sable Aurora Frontier
+Frozen black-ice landscapes, aurora-lit rail caravans, arctic expedition empires, ritual polar exploration.
 
-### The Mourning Archive
-Forgotten libraries, cursed books, candlelit records, ghost historians, funeral documents, sacred typography, dusty Victorian archives, occult librarians.
+### The Ivory Pilgrimage Rail
+Sacred locomotive routes, ceremonial transit systems, atmospheric rail cathedrals, ghost passenger lines.
 
-### Wraith Frontier
-Spaghetti-western horror, wandering gunslingers, skeletal horses, dust storms, haunted deserts, grave markers, cursed frontier towns, occult bounty hunters.
+### The Veilborne Observatory Guild
+Astronomical scholars, occult telescope chambers, eclipse mathematics, sacred navigation societies.
 
-### The Brass Sepulcher
-Funeral machinery, coffin engines, cathedral furnaces, industrial tombs, crematory architecture, brass reliquaries, sacred mechanical death rituals.
+### The Gloamwater Embassy District
+Rain-soaked diplomatic towers, industrial political architecture, ceremonial negotiation halls, haunted state chambers.
 
-### Dreams of Blackwater
-Flooded gothic cities, drowned cathedrals, lantern reflections, fog harbors, plague canals, submerged statues, moonlit ruins.
+### The Obsidian Polar Archive
+Frozen knowledge vaults, black ice repositories, ritual document preservation, ancient expedition records.
 
-### Velvet Hex
-Occult glamour, ritual fashion, black lace, ceremonial masks, witch aristocracy, candlelit beauty, symbolic jewelry, gothic femininity.
+### The Crimson Fog Cartography Office
+Atmospheric mapmaking chambers, plague-era navigation guilds, ritual geographic surveys.
 
-### The Drowned Throne
-Sunken royalty, flooded palaces, skeletal queens, submerged relics, abyssal cathedrals, aquatic necromancy, drowned processions.
+### The Etherwake Botanical Society
+Arcane botanical laboratories, luminous greenhouse systems, ritual floral experimentation.
 
-### The Ember Sanctum
-Burning monasteries, sacred furnaces, ash priests, ember-lit rituals, volcanic cathedrals, fire mysticism, molten reliquaries.
+### The Funeral Weather Authority
+Storm ritualists, industrial weather machinery, atmospheric forecasting cathedrals, sacred climate engineering.
 
-### The Pale Frontier
-Frozen wastelands, arctic ghost towns, frostbitten wanderers, snow burial grounds, winter necromancy, lantern caravans.
+### The Lantern Meridian Company
+Victorian trade syndicates, ritualized freight systems, atmospheric merchant empires.
 
-### The Sepia Dominion
-Victorian imperial dystopia, sacred banners, ceremonial architecture, war clergy, mechanical monarchy, ancient propaganda aesthetics.
+### The Black Halo Signal Fleet
+Spectral communication ships, celestial relay vessels, haunted industrial maritime networks.
 
-### The Thorned Reliquary
-Sacred botanical horror, black roses, funeral floristry, ritual gardens, poisonous flowers, cathedral greenhouses.
+### The Pale Ember Tribunal
+Ash-covered judicial halls, ceremonial law chambers, gothic civic authority.
+
+### The Drowned Astronomer Court
+Flooded celestial palaces, submerged observatories, abyssal astronomical rituals.
+
+### The Ashwake Expedition Ministry
+Industrial exploration bureaus, forbidden excavation teams, ritual survey expeditions.
+
+### The Velvet Eclipse Conservatory
+Decadent observatory salons, celestial aristocracy, atmospheric eclipse ceremonies.
+
+### The Boneglass Transit Authority
+Ghost rail administration, industrial transit governance, spectral station systems.
+
+### The Sepia Flood Archives
+Water-damaged record halls, drowned imperial libraries, plague-era documentation vaults.
+
+### The Wraithlight Harbor Dominion
+Fog-covered shipping empires, spectral docks, industrial maritime aristocracy.
+
+### The Iron Halo Navigation Bureau
+Mechanical navigation ministries, celestial route systems, industrial compass cathedrals.
+
+### The Cathedral of Seasonal Clocks
+Monumental timekeeping halls, ritual calendar machinery, atmospheric chronometric systems.
+
+### The Hollow Static Orchestra
+Haunted transmission symphonies, ritual radio concerts, industrial sound cathedrals.
+
+### The Mourning Ice Observatory
+Frozen celestial towers, arctic astronomical instruments, aurora-lit laboratories.
+
+### The Thornveil Atmospheric Institute
+Storm laboratories, ritual weather observatories, toxic botanical meteorology.
+
+### The Ritual Atlas Collective
+Forbidden cartographers, occult world surveys, sacred exploration societies.
+
+### The Brass Monolith Registry
+Industrial monument catalogers, ceremonial architecture archives, imperial infrastructure records.
+
+### The Silent Weather Basilica
+Storm-lit sanctuaries, ritual climate ceremonies, atmospheric industrial worship.
+
+### The Pale Lantern Directorate
+Ghost-lit administrative halls, ceremonial oversight chambers, haunted transit authority.
+
+### The Obsidian Heliograph Towers
+Black-metal signal towers, eclipse communication systems, atmospheric relay architecture.
+
+### The Etheric Customs Ministry
+Dimensional trade inspectors, occult checkpoint halls, ritualized industrial commerce.
+
+### The Crimson Telegraph Dominion
+Blood-red relay empires, plague-era communication systems, ceremonial transmission states.
+
+### The Ashfall Polar Convoy
+Snow-buried industrial caravans, frozen expedition trains, ritual arctic logistics.
+
+### The Veilglass Treasury Halls
+Gothic financial cathedrals, ceremonial vault architecture, atmospheric wealth ministries.
+
+### The Hollow Sun Survey Office
+Celestial expedition bureaus, ritual eclipse registries, forbidden astronomical mapping.
+
+### The Dreadwake Embassy Choir
+Diplomatic ritual singers, ceremonial state choirs, haunted political cathedrals.
 
 ---
 
@@ -501,7 +598,7 @@ Avoid generic fantasy aesthetics unless specifically required by the challenge t
 
 ---
 
-# Mandatory Output Order
+# Updated Mandatory Output Order
 
 Every response must appear in this exact order:
 
@@ -509,7 +606,7 @@ Every response must appear in this exact order:
 2. Caption
 3. Info
 4. Hashtags
-5. Audio Recommendation
+5. Audio Recommendations
 6. Separator line: ---
 
 Do NOT use section labels or headings.
@@ -532,7 +629,7 @@ Do NOT use section labels or headings.
 
 ---
 
-# Output Template
+# Updated Output Template
 
 [Daily Phrase], [world-based cinematic visual prompt, atmospheric storytelling descriptors, implied narrative moment, ultra-detailed] --ar [aspect_ratio] --profile [profile_string]
 
@@ -545,7 +642,10 @@ Do NOT use section labels or headings.
 #[ChallengeTag] #[RelevantTag1] #[RelevantTag2] #[RelevantTag3] #collabcrew
 
 Audio:
-[Artist] — [Track Name]
+- [Artist] — [Track Name]
+- [Artist] — [Track Name]
+- [Artist] — [Track Name]
+- [Artist] — [Track Name]
 
 ---
 
@@ -718,3 +818,260 @@ Audio:
 Artist — Track Name
 
 ---
+
+
+
+# Gallery-Derived Visual Identity Reinforcements
+
+## Dominant Atmospheric Identity
+
+The strongest recurring artistic identity across the gallery should reinforce:
+
+- gothic surrealism
+- melancholic dream worlds
+- cinematic Victorian decay
+- sacred machinery
+- uncanny emotional solitude
+- haunted industrial environments
+- impossible architecture
+- mythic urban fantasy
+- ritualized exploration
+- atmospheric narrative ambiguity
+
+Prompts should favor emotionally immersive worlds that feel:
+- ancient
+- mysterious
+- sacred
+- rain-soaked
+- dreamlike
+- lonely
+- mythological
+- visually haunted
+
+---
+
+## Recurring Environmental Signatures
+
+The gallery strongly reinforces recurring use of:
+
+- towering cathedral cities
+- flooded industrial streets
+- lantern-lit alleys
+- rain-soaked cobblestone roads
+- giant observatories
+- colossal signal towers
+- biomechanical sanctuaries
+- impossible transit systems
+- flooded cavern systems
+- moonlit arches
+- mechanical coastlines
+- ritual gardens
+- fog-covered bridges
+- gothic greenhouses
+- celestial machine halls
+- abandoned industrial districts
+- haunted harbor cities
+- atmospheric vertical megastructures
+
+These environments should remain visually monumental and emotionally cinematic.
+
+---
+
+## Recurring Character Archetypes
+
+Recurring visual archetypes strongly associated with the creator identity include:
+
+- skeletal aristocrats
+- plague-era nobles
+- ritual archivists
+- lantern wanderers
+- raven keepers
+- melancholic pilgrims
+- uncanny Victorian scholars
+- ceremonial navigators
+- ghostly clergy
+- elongated surreal nobility
+- haunted machinists
+- masked cathedral attendants
+- ritual astronomers
+- grotesque carnival entities
+- biomechanical monks
+- silent industrial explorers
+
+Character silhouettes should remain:
+- emotionally readable
+- tall and iconic
+- strongly costumed
+- atmospheric rather than action-oriented
+- cinematic at thumbnail scale
+
+---
+
+## Emotional Tone Guidance
+
+The strongest emotional resonance within the gallery favors:
+
+- melancholy
+- awe
+- mystery
+- sacred loneliness
+- dreamlike dread
+- ritual wonder
+- quiet apocalypse
+- mythic curiosity
+- haunted beauty
+- nostalgic surrealism
+
+Avoid:
+- generic heroic fantasy
+- comedic fantasy overload
+- hyper-chaotic compositions
+- bright modern aesthetics
+- meme-driven visual language
+
+---
+
+## Recurring Symbolic Motifs
+
+Frequently recurring symbolic motifs include:
+
+- ravens
+- lanterns
+- cathedral windows
+- giant eyes
+- eclipse imagery
+- skulls
+- skeletal ornamentation
+- ritual masks
+- giant clocks
+- brass instrumentation
+- flooded thresholds
+- signal towers
+- ceremonial flowers
+- mechanical halos
+- towering arches
+- ritual staircases
+- glowing waterways
+- atmospheric reflections
+
+These motifs should appear repeatedly throughout prompt generations whenever visually appropriate.
+
+---
+
+## Enhanced Color Reinforcement
+
+Gallery analysis strongly reinforces the following dominant palette behavior:
+
+- oxidized teal
+- weathered cyan
+- desaturated turquoise
+- deep charcoal blacks
+- antique bronze
+- aged copper
+- candlelit amber
+- sepia fog browns
+- moonlit blue-gray
+- muted crimson accents
+- bone ivory highlights
+- smoky industrial grayscale
+
+Bright saturated colors should remain rare and intentional.
+
+---
+
+## Gallery-Derived Composition Rules
+
+Visual storytelling compositions should favor:
+
+- solitary figures against monumental environments
+- vertical cinematic framing
+- atmospheric depth layering
+- cathedral-scale architecture
+- environmental storytelling over action
+- emotionally readable silhouettes
+- giant foreground structures
+- narrow pathways and corridors
+- centered ritualistic framing
+- cinematic scale contrast
+- atmospheric reflections and wet surfaces
+- dramatic perspective compression
+- distant glowing focal points
+
+---
+
+## Narrative Identity Reinforcement
+
+The gallery consistently reinforces the concept of:
+
+- one interconnected mythological universe
+- recurring dream civilizations
+- ancient mechanical empires
+- sacred industrial societies
+- forgotten transit systems
+- ceremonial exploration
+- atmospheric bureaucracy
+- haunted astronomy
+- industrial spirituality
+- surreal folklore ecosystems
+
+Prompts should imply:
+- hidden histories
+- larger unseen civilizations
+- recurring lore
+- ancient ritual systems
+- mysterious social structures
+- forgotten technologies
+- sacred machinery tied to belief systems
+
+---
+
+## Whimsical Surrealism Guidance
+
+Whimsical or caricature-driven imagery should remain secondary and integrated carefully into the larger gothic surrealist ecosystem.
+
+Preferred whimsical elements:
+- uncanny mice aristocrats
+- surreal carnival figures
+- strange ceremonial creatures
+- dreamlike botanical entities
+- grotesque puppet-like beings
+
+Avoid shifting fully into:
+- cartoon aesthetics
+- comedic parody
+- children's fantasy styling
+- exaggerated meme imagery
+
+Whimsical imagery should still preserve:
+- atmospheric lighting
+- cinematic readability
+- gothic mood
+- emotional mystery
+- painterly realism
+
+---
+
+## Platform Brand Identity
+
+The strongest creator identity emerging from the gallery is:
+
+Gothic Surrealist Worldbuilder
+
+Supporting niche identifiers:
+- Victorian dark fantasy
+- biomechanical steampunk
+- sacred machinery
+- cinematic melancholy
+- atmospheric surrealism
+- industrial mythmaking
+- uncanny gothic storytelling
+- dreamlike architectural fantasy
+
+This identity should remain consistent across:
+- prompts
+- captions
+- reels
+- serialized lore
+- hashtag ecosystems
+- visual storytelling systems
+
