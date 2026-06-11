@@ -14,6 +14,7 @@ I have added the following **alternative web-based news sources** that align wit
 - **FOX19 (WXIX)**: https://www.fox19.com/  
 - **WCPO-TV**: https://www.wcpo.com/  
 - **WLWT**: https://www.wlwt.com/
+- **NewsBreak**: https://www.newsbreak.com/burlington-ky
 
 ### National / Alternative Web-Based Sources
 - **The White House**: https://www.whitehouse.gov/  
