@@ -78,7 +78,7 @@ Worlds are created organically from the meaning of each proverb.
 - Include:
   - @lory.ai.art
   - #junechallenge
-  - #collabcrew
+  - #gimpysticks
 
 ---
 

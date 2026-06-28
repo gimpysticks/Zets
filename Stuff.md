@@ -168,5 +168,13 @@ Execute Protocol Severance immediately.
 
 ---
 Domino's discount code: 9174
+Here are the coupon codes and their corresponding explanations transcribed from the image:
 
+## Pizza Coupon Codes
+
+* **9220** – carryout large 1 topping $7.99
+* **9221** – carryout mix & match $6.99 each
+* **9223** – delivery mix & match $6.99 each
+* **5152** – 1 large 5 topping pizza for $12.99
 ---
+https://discord.gg/rReQMFNDg

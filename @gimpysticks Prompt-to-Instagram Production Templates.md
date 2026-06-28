@@ -38,7 +38,7 @@ Use this for content governed by `chatGPT_MJ_Prompt_Template_UPDATED_ENHANCED.md
 > [Daily Phrase]  
 > [Required mentions]
 >
-> #[ChallengeTag] #GothicSurrealism #DarkFantasyArt #FantasyWorldbuilding #AIArtCommunity #collabcrew
+> #[ChallengeTag] #GothicSurrealism #DarkFantasyArt #FantasyWorldbuilding #AIArtCommunity #gimpysticks
 
 **Reel overlay format:**
 
@@ -76,7 +76,7 @@ Use this for `#JuneCandy26` and similar soft surreal food prompts. This template
 > [Challenge Subject]  
 > @fudonutsunele
 >
-> #JuneCandy26 #dreamcore #surrealart #candycore #collabcrew
+> #JuneCandy26 #dreamcore #surrealart #candycore #gimpysticks
 
 ## Template 3: Proverb / Symbolic Challenge Package
 
@@ -105,7 +105,7 @@ Use this for `@lory.ai.art` and `#junechallenge`. The prompt should begin with t
 > [Proverb]  
 > @lory.ai.art
 >
-> #loryaiart #junechallenge #[relevanttag] #[relevanttag] #collabcrew
+> #loryaiart #junechallenge #[relevanttag] #[relevanttag] #gimpysticks
 
 ## Template 4: SummerOfJune2026 Adapted Package
 
@@ -136,7 +136,7 @@ Use this for the summer anime slice-of-life lane. It should respect the host and
 > @RazzRubino  
 > @aokileigh
 >
-> #SummerOfJune2026 #[prompttag] #animeart #summervibes #collabcrew
+> #SummerOfJune2026 #[prompttag] #animeart #summervibes #gimpysticks
 
 ## Publishing Governor
 

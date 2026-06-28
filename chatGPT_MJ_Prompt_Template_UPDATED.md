@@ -4,9 +4,24 @@ type: cinematic_prompt_framework
 
 default_aspect_ratio: 9:16
 
-default_profile:
-  - 4lbi7ao
-  - lzdppsy
+default_profile: "gimpysticks"
+
+profiles:
+  "gimpysticks":
+    description: "Default @gimpysticks MidJourney profile set."
+    parameter: "--p"
+    ids:
+      - 4lbi7ao
+      - lzdppsy
+    expands_to: "--p 4lbi7ao lzdppsy"
+
+  "Chenier-Gothic":
+    description: "Chenier-Gothic MidJourney profile set."
+    parameter: "--p"
+    ids:
+      - cz2fnyy
+      - 9rfajjh
+    expands_to: "--p cz2fnyy 9rfajjh"
 
 primary_worlds:
   - The Sable Meridian Vault
@@ -613,11 +628,27 @@ Do NOT use section labels or headings.
 
 ---
 
+# Profile Rules
+
+- The default named profile is `gimpysticks`.
+- `gimpysticks` always expands to `--p 4lbi7ao lzdppsy`.
+- `Chenier-Gothic` always expands to `--p cz2fnyy 9rfajjh`.
+- Profile IDs must always remain in the exact consecutive order listed.
+- Never reverse, omit, duplicate, or reorder profile IDs unless explicitly instructed by the user.
+- When no named profile is specified, use `gimpysticks`.
+
+---
+
 # Profile String Behavior
 
-- Determined by the FIRST prompt in the chat
-- Must remain consistent throughout the chat
-- Never change unless explicitly instructed
+- The default named profile is `gimpysticks`.
+- `gimpysticks` always expands to `--p 4lbi7ao lzdppsy`.
+- `Chenier-Gothic` always expands to `--p cz2fnyy 9rfajjh`.
+- Profile IDs must always remain in the exact consecutive order listed in the YAML profile configuration.
+- Never reverse, omit, duplicate, or reorder profile IDs unless explicitly instructed.
+- Use the MidJourney `--p` parameter when emitting named profile strings.
+- Profile selection is determined by the first prompt in the chat and must remain consistent throughout the chat unless explicitly changed.
+- When no named profile is specified, use `gimpysticks`.
 
 ---
 
@@ -631,7 +662,7 @@ Do NOT use section labels or headings.
 
 # Output Template
 
-[Daily Phrase], [world-based cinematic visual prompt, atmospheric storytelling descriptors, implied narrative moment, ultra-detailed] --ar [aspect_ratio] --profile [profile_string]
+[Daily Phrase], [world-based cinematic visual prompt, atmospheric storytelling descriptors, implied narrative moment, ultra-detailed] --ar [aspect_ratio] --p [profile_ids]
 
 [Cinematic microfiction caption supporting lore and atmosphere]
 
@@ -639,7 +670,7 @@ Do NOT use section labels or headings.
 [Daily Phrase]
 @[username]
 
-#[ChallengeTag] #[RelevantTag1] #[RelevantTag2] #[RelevantTag3] #collabcrew
+#[ChallengeTag] #[RelevantTag1] #[RelevantTag2] #[RelevantTag3] #gimpysticks
 
 Audio:
 [Artist] — [Track Name]

@@ -220,7 +220,7 @@ output_template: |
   [Challenge Subject]
   @fudonutsunele
 
-  #JuneCandy26 #[RelevantTag1] #[RelevantTag2] #[RelevantTag3] #collabcrew
+  #JuneCandy26 #[RelevantTag1] #[RelevantTag2] #[RelevantTag3] #gimpysticks
 
   Audio:
   [Artist] — [Track Name]

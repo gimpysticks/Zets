@@ -104,7 +104,7 @@
 - 9. Where there's a will, there's a way
 - 10. Fortune favors the bold
 
-**Mentions / tags:** @lory.ai.art, #collabcrew, #junechallenge
+**Mentions / tags:** @lory.ai.art, #gimpysticks, #junechallenge
 
 ## SummerOfJune2026_Prompt_List.md
 | Metric | Value |
@@ -203,7 +203,7 @@
 - 5. Audio Recommendations
 - 6. Separator line: ---
 
-**Mentions / tags:** #collabcrew
+**Mentions / tags:** #gimpysticks
 
 ## chatGPT_MJ_Prompt_Template_UPDATED.md
 | Metric | Value |
@@ -244,7 +244,7 @@
 - 5. Audio Recommendation
 - 6. Separator line: ---
 
-**Mentions / tags:** #collabcrew
+**Mentions / tags:** #gimpysticks
 
 ## chatGPT_MJ_Prompt_Template_UPDATED_ENHANCED.md
 | Metric | Value |
@@ -285,7 +285,7 @@
 - 5. Audio Recommendation
 - 6. Separator line: ---
 
-**Mentions / tags:** #collabcrew
+**Mentions / tags:** #gimpysticks
 
 ## cora_racoon_June26_list_data.md
 | Metric | Value |
@@ -346,7 +346,7 @@
 - 5. Audio Recommendation
 - 6. Separator Line
 
-**Mentions / tags:** @fudonutsunele, #JuneCandy26, #collabcrew
+**Mentions / tags:** @fudonutsunele, #JuneCandy26, #gimpysticks
 
 ## lory.ai.artApr26.md
 | Metric | Value |

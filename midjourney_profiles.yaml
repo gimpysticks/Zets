@@ -1,0 +1,27 @@
+# MidJourney profile aliases for @gimpysticks
+# Keep profile IDs in the exact consecutive order shown.
+
+default_profile: "gimpysticks"
+
+profiles:
+  "gimpysticks":
+    description: "Default @gimpysticks MidJourney profile set."
+    parameter: "--p"
+    ids:
+      - 4lbi7ao
+      - lzdppsy
+    expands_to: "--p 4lbi7ao lzdppsy"
+
+  "Chenier-Gothic":
+    description: "Chenier-Gothic MidJourney profile set."
+    parameter: "--p"
+    ids:
+      - cz2fnyy
+      - 9rfajjh
+    expands_to: "--p cz2fnyy 9rfajjh"
+
+profile_rules:
+  - "Always emit profile IDs in the exact consecutive order listed."
+  - "Never reverse, omit, duplicate, or reorder profile IDs unless explicitly instructed by the user."
+  - "Use the MidJourney --p parameter when expanding a named profile."
+  - "When no profile is specified, use the default profile: gimpysticks."
