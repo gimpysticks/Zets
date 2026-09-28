@@ -161,11 +161,11 @@ Configured in GNOME Settings Daemon Media Keys (`/org/gnome/settings-daemon/plug
 | Key Binding | Label | Target Script |
 | :--- | :--- | :--- |
 | `Primary + Super + r` | Read Human TTS | [`/home/sticks/bin/readgTTS.sh`](file:///home/sticks/bin/readgTTS.sh) |
-| `Alt + Super + n` | Toggle Nerd Dictation | [`/home/sticks/bin/nerddict`](file:///home/sticks/bin/nerddict) |
 | `Alt + Super + l` | Linktree to Clipboard | [`/home/sticks/bin/cplinktree`](file:///home/sticks/bin/cplinktree) |
 | `Shift + Alt + w` | Work URLs | `bash -c /home/sticks/bin/workurls` |
 | `Alt + Super + w` | Workspace URLs | `/usr/bin/bash /home/sticks/bin/workurls` |
 | `Primary + Alt + BackSpace` | Restart X Display | [`/home/sticks/bin/restartx`](file:///home/sticks/bin/restartx) |
+| `Shift + Super + m` | Monitor Off | [`/home/sticks/bin/monitor-off`](file:///home/sticks/bin/monitor-off) |
 
 ### System Monitoring & Hardware
 | Key Binding | Label | Command / Target |

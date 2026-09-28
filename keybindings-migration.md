@@ -53,7 +53,7 @@ Raw dconf backup: `~/bin/custom-keybindings.dconf`
 | `Alt+Super+B` | Change Browser | `~/bin/chgbrowser` |
 | `Ctrl+Super+A` | AI URLs | `~/bin/aiurls` |
 | `Alt+Super+L` | Linktree to Clipboard | `~/bin/cplinktree` |
-| `Alt+Super+N` | Toggle Nerd Dict | `~/bin/nerddict` |
+| `Super+Shift+M` | Monitor Off | `~/bin/monitor-off` |
 
 ---
 
