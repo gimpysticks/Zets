@@ -1,7 +1,6 @@
----
-created: 2026-04-03
----
 # OBS Studio Hotkeys - Sticks Profile
+
+Generated on: 2026-10-05 19:36:20
 
 ## Global Hotkeys
 
@@ -13,21 +12,25 @@ created: 2026-04-03
 - **Unpause Recording:** Ctrl+F10
 - **Start Replay Buffer:** F5
 - **Stop Replay Buffer:** F6
-- **Replay Buffer Save:** Ctrl+F6
+**Replay Buffer Save:**
+  - Ctrl+F6
 - **Start Virtual Cam:** F1
 - **Stop Virtual Cam:** F2
 - **Split File:** F3
 - **Add Chapter Marker:** F4
 - **Transition:** Shift+F12
 - **Screenshot:** Shift+F11
+**Select Scene:**
+  - Full Camera: Ctrl+1 
+  - Desktop: Ctrl+2 
+  - Both: Ctrl+3 
 
-## Scene Selection
+## Scene Hotkeys
 
-- **Camera:** Numpad 1
-- **Desktop:** Numpad 2
-- **Desk_Cam:** Numpad 0
+- **Switch to Camera:** Numpad 1
+- **Switch to Desk_Cam:** Numpad 0
+- **Switch to Desktop:** Numpad 2
 
-## Audio Mute/Unmute
+## Source Show/Hide Hotkeys
 
-- **Desktop Audio:** Shift+Alt+M
-- **Mic/Aux:** Alt+M
+No source show/hide hotkeys configured.
