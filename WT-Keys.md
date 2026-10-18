@@ -1,40 +1,47 @@
 ---
 created: 2026-01-16
+updated: 2026-10-18
 ---
 # War Thunder Keybindings
 
 This document lists the keybindings configured for War Thunder.
 
 ## Base Preset
-- **Default Preset:** `config/hotkeys/hotkey.keyboard_shooter_ver2.blk`
-- **Note:** Only custom overrides are stored in user config. Standard controls use War Thunder's default values.
+- **Default Preset:** `config/hotkeys/hotkey.keyboard_shooter_ver3.blk`
+- **Live Config File:** `~/.config/WarThunder/Saves/last/production/machine.blk`
+- **Exported Backup:** [`~/bin/warthunder-controls.blk`](file:///home/sticks/bin/warthunder-controls.blk) & `~/.config/WarThunder/Saves/Full_CTLS.blk`
+- **Note:** Only custom overrides are stored in user config. Standard controls use War Thunder's default values from `hotkey.keyboard_shooter_ver3.blk`.
 
-## Custom Keybindings
+## Custom Keybindings (`machine.blk` Overrides)
 
-### Weapons & Ordnance
-- **Bombs Series Release:** `Ctrl + Space` (keyboardKey: 29, 57)
-- **Drop Fuel Tanks:** `0` (keyboardKey: 48)
-- **Open Visual Weapon Selector:** `Alt + Shift + A` (keyboardKey: 56, 42, 30)
+### Aircraft Flight & Propulsion
+- **Pitch Up (`elevator_rangeMax`):** `S` (`keyboardKey: 31`)
+- **Pitch Down (`elevator_rangeMin`):** `W` (`keyboardKey: 17`)
+- **Throttle Up (`throttle_rangeMax`):** `Page Up` (`keyboardKey: 201`) / `Mouse Wheel`
+- **Throttle Down (`throttle_rangeMin`):** `Page Down` (`keyboardKey: 209`) / `Mouse Wheel`
+- **Ignite Boosters (`ID_IGNITE_BOOSTERS`):** `Ctrl + Alt + B` (`keyboardKey: 29, 56, 48`)
 
-### Countermeasures
-- **Deploy Chaff:** `Shift + C` (keyboardKey: 42, 46)
-- **Deploy Flares:** `Shift + F` (keyboardKey: 42, 33)
+### Weapons & Ordnance (Aircraft & Helicopter)
+- **Bombs Series Release (`ID_BOMBS_SERIES`):** `Space` *(Hold)* (`keyboardKey: 57`, `activationType: 1`)
+- **Fire Rocket (Helicopter, `ID_ROCKETS_HELICOPTER`):** `4` (`keyboardKey: 5`)
+- **Fire Rocket Salvo / Series (Helicopter, `ID_ROCKETS_SERIES_HELICOPTER`):** `Mouse Button 5` (`mouseButton: 4`)
 
-### Targeting & Vision
-- **Rangefinder:** `R` (keyboardKey: 19)
-- **Tank Night Vision:** `Alt + V` (keyboardKey: 56, 47)
+### Scout UAV / Human UAV Controls
+- **UAV Control Mode (`ID_CONTROL_MODE_HUMAN_UAV`):** `H` (`keyboardKey: 35`)
+- **UAV Climb / Throttle Up:** `W` (`keyboardKey: 17`) / `Up Arrow` (`keyboardKey: 200`) / `Mouse Wheel` (`mouseAxisId: 7`)
+- **UAV Descend / Throttle Down:** `S` (`keyboardKey: 31`) / `Down Arrow` (`keyboardKey: 208`)
+- **UAV Pitch Up / Down:** `Page Down` (`keyboardKey: 209`) / `Page Up` (`keyboardKey: 201`)
+- **UAV Roll Left / Right:** `A` (`keyboardKey: 30`) & `Left Arrow` (`keyboardKey: 203`) / `D` (`keyboardKey: 32`) & `Right Arrow` (`keyboardKey: 205`)
+- **UAV Yaw Left / Right:** `Q` (`keyboardKey: 16`) / `E` (`keyboardKey: 18`)
 
-### Communication
-- **Push-to-Talk (PTT):** `Caps Lock` (keyboardKey: 58)
-- **Internet Radio:** `End` (keyboardKey: 79)
+### Communication & Audio
+- **Internet Radio (`ID_INTERNET_RADIO`):** `Numpad 1` / `End` (`keyboardKey: 79`)
 
 ### General Controls
-- **Continue:** `Space` (keyboardKey: 57)
-- **Screenshot:** `Shift + Print Screen` (keyboardKey: 42, 183)
-
-### Replay Camera Controls
-- **Replay Camera Free Attached:** `Ctrl + F9` (keyboardKey: 29, 66)
-- **Replay Camera Free Parented:** `Ctrl + F8` (keyboardKey: 29, 65)
+- **Flight / Pause Menu (`ID_FLIGHTMENU`):** `Esc` (`keyboardKey: 1`)
+- **Continue (`ID_CONTINUE`):** `Space` (`keyboardKey: 57`)
+- **Screenshot (`ID_SCREENSHOT`):** `Print Screen` (`keyboardKey: 183`) / `Shift + Print Screen` (`keyboardKey: 42, 183`)
+- **Tactical Web Map Bridge (`wt-map-bridge`):** `M` (handled by `wt-map-bridge.service` & `wt-map-fix.service` on port `8111`)
 
 ## Control Settings
 
@@ -68,7 +75,7 @@ This document lists the keybindings configured for War Thunder.
 ### Camera Controls
 - **Camera Smooth:** 0
 - **Camera Speed:** 0.95
-- **Camera Mouse Speed:** 3.95
+- **Camera Mouse Speed:** 4.0
 - **Camera FPS Physics Multiplier:** 0.5
 - **Free Camera Inertia:** 1.0
 - **Replay Camera Wiggle:** 1.0
@@ -80,14 +87,11 @@ This document lists the keybindings configured for War Thunder.
 - **Camera Shake Multiplier:** 1.0
 - **Vibration:** Yes
 
-## Zoom Settings
-- **Zoom Axis Add:** -0.46
-
 ---
 
-## Default War Thunder Keybindings Reference
+## Default War Thunder Keybindings Reference (`hotkey.keyboard_shooter_ver3.blk`)
 
-These are the standard default controls from War Thunder's "keyboard_shooter_ver2" preset that have not been customized.
+These are the standard default controls from War Thunder's `keyboard_shooter_ver3` preset that have not been overridden above.
 
 ### General Controls
 - **Pause Menu:** `Esc`
@@ -96,90 +100,44 @@ These are the standard default controls from War Thunder's "keyboard_shooter_ver
 - **Chat (Team):** `Y`
 - **Voice Chat (Team):** `V` (hold)
 - **Map:** `M`
-- **Tactical Map:** `BackSpace`
 - **Mission Objectives:** `O`
 
 ### Aircraft Controls (Mouse Aim)
-- **Pitch/Roll:** Mouse movement
-- **Throttle Up:** `W`
-- **Throttle Down:** `S`
-- **Yaw Left:** `A`
-- **Yaw Right:** `D`
+- **Pitch/Roll:** Mouse movement + `W` (Pitch Down) / `S` (Pitch Up)
+- **Throttle Up / Down:** `Page Up` / `Page Down` / Mouse Wheel
+- **Yaw Left / Right:** `Q` / `E`
+- **Roll Left / Right:** `A` / `D`
 - **Fire Primary Weapon:** Left Mouse Button
-- **Fire Secondary Weapon:** Right Mouse Button / `Space`
 - **Release Bombs:** `Space`
+- **Ignite Boosters:** `Ctrl + Alt + B`
 - **Toggle Landing Gear:** `G`
 - **Toggle Flaps:** `F`
 - **Toggle Airbrake:** `H`
-- **WEP/Afterburner:** `~` (hold)
 - **Engine Start/Stop:** `I`
-- **Select Next Target:** `E`
 - **Lock Target:** `X`
 - **Zoom In:** `Z`
-- **Look Back:** `C`
-- **Free Look:** Right Mouse Button (hold)
-- **Switch Camera View:** `F7`
-- **Cockpit View:** `F9`
+- **Free Look:** `C` (hold)
 
 ### Tank Controls
-- **Move Forward:** `W`
-- **Move Backward:** `S`
-- **Turn Left:** `A`
-- **Turn Right:** `D`
+- **Move Forward / Backward:** `W` / `S`
+- **Turn Left / Right:** `A` / `D`
 - **Fire Main Gun:** Left Mouse Button
-- **Fire Machine Gun:** Right Mouse Button
+- **Fire Machine Gun:** `Space`
 - **Switch Shell Type:** `1`, `2`, `3`, `4`
-- **Reload:** `R` (manual)
-- **Toggle Sight:** `Right Mouse Button` (hold to zoom)
-- **Driver View:** `F4`
-- **Gunner View:** `F5`
-- **Commander View:** `F6`
+- **Sniper Mode / Sight:** `Shift`
 - **Binoculars:** `B`
-- **Smoke Grenades:** `V`
-- **Toggle Cruise Control:** `Q` / `E` (speed adjust)
-- **Neutral Steering Left:** `Shift + A`
-- **Neutral Steering Right:** `Shift + D`
-- **Artillery Strike:** `U`
-- **Request Artillery on Map:** `LMB` on map
+- **Smoke Grenades:** `G`
+- **Toggle Cruise Control:** `Q` / `E`
+- **Artillery Strike:** `5`
 
 ### Naval Controls
-- **Throttle Up:** `W`
-- **Throttle Down:** `S`
-- **Rudder Left:** `A`
-- **Rudder Right:** `D`
+- **Throttle Up / Down:** `W` / `S`
+- **Rudder Left / Right:** `A` / `D`
 - **Fire Primary Guns:** Left Mouse Button
-- **Fire Secondary Guns:** Right Mouse Button
-- **Fire Torpedoes:** `T`
-- **Toggle Rangefinder:** `Shift + E`
-- **Aim Camera:** Mouse
+- **Fire Torpedoes:** `Space`
 - **Free Look:** `C` (hold)
 - **Binoculars:** `B`
-- **Damage Control:** `V`
-- **Switch Camera:** `F7`
-
-### Helicopter Controls
-- **Collective Up:** `W`
-- **Collective Down:** `S`
-- **Yaw Left:** `A`
-- **Yaw Right:** `D`
-- **Pitch/Roll:** Mouse
-- **Fire Weapons:** Left Mouse Button
-- **Fire Rockets/Missiles:** Right Mouse Button
-- **Lock Target:** `X`
-- **Switch Weapon:** `1`, `2`, `3`, `4`
-- **Toggle Landing Gear:** `G`
-- **Switch Camera View:** `F7`
-
-### Common Radio Commands
-- **Attention to the Designated Target:** `T + 1 + 1`
-- **Cover Me:** `T + 2 + 1`
-- **Attack the Point:** `T + 3 + 1`
-- **Affirmative:** `T + 4 + 1`
-- **Negative:** `T + 4 + 2`
-- **Thank You:** `T + 5 + 1`
-- **Request Backup:** `T + 6 + 1`
-- **Requesting Air Cover:** `T + 7 + 1`
 
 ---
 *Configuration extracted from:* `~/.config/WarThunder/Saves/last/production/machine.blk`  
-*Last Updated:* January 17, 2026
+*Last Updated:* October 18, 2026
