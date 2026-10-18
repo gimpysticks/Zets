@@ -5,12 +5,13 @@ created: 2026-10-18
 
 # Generated Links
 
+- [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
+- [WT-Keys](WT-Keys.md)
+- [keybindings](keybindings.md)
+- [OBS_Keys](OBS_Keys.md)
 - [discord-ptt](discord-ptt.md)
 - [repo_sync_automation_guide](repo_sync_automation_guide.md)
-- [OBS_Keys](OBS_Keys.md)
 - [September_2026_Challenges_Archive](September_2026_Challenges_Archive.md)
-- [keybindings-migration](keybindings-migration.md)
-- [keybindings](keybindings.md)
 - [pop_os_upgrade_conversation_2026-09-26](pop_os_upgrade_conversation_2026-09-26.md)
 - [wireless_nautilus_mount_guide](wireless_nautilus_mount_guide.md)
 - [agy_conversations](agy_conversations.md)
@@ -85,7 +86,6 @@ created: 2026-10-18
 - [reinstall_prep](reinstall_prep.md)
 - [Victorian_Entertainment](Victorian_Entertainment.md)
 - [Firesticks_PWR_Timeout](Firesticks_PWR_Timeout.md)
-- [WT-Keys](WT-Keys.md)
 - [Traffic_Cams](Traffic_Cams.md)
 - [happens](happens.md)
 - [WT-Bluewater_Icon](WT-Bluewater_Icon.md)
@@ -201,7 +201,6 @@ created: 2026-10-18
 - [minecraft_flatpak_path](minecraft_flatpak_path.md)
 - [mincraft_seed_range](mincraft_seed_range.md)
 - [microsoft_minecraft_recovery_codes](microsoft_minecraft_recovery_codes.md)
-- [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
 - [matrix_invite_links](matrix_invite_links.md)
 - [mastodon_links](mastodon_links.md)
 - [markdown_practice](markdown_practice.md)

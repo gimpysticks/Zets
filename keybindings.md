@@ -193,7 +193,7 @@ Configured in `~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
 | `Super + Alt + i` | Instagram | `xdg-open https://www.instagram.com` |
 | `Super + Alt + x` | X.com | `xdg-open https://x.com/home` |
 | `Super + Alt + t` | TikTok | `xdg-open https://www.tiktok.com` |
-| `Super + Shift + t` | Twitch | `/usr/bin/firefox www.twitch.com` |
+| `Super + Shift + t` | Twitch | `xdg-open https://www.twitch.tv` |
 | `Super + Alt + r` | Redbubble | `xdg-open https://www.redbubble.com/portfolio/manage_works?ref=account-nav-dropdown` |
 
 ### Gaming
