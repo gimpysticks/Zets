@@ -1,20 +1,40 @@
 ---
 created: 2026-01-06
+updated: 2026-10-19
 ---
-That's a great idea for a complete reference! Including the ammunition selection keys (1, 2, 3) provides the full context of the Naval Action Bar (Keys 1 through 8+).
+# War Thunder Naval Action Bar Icons & Keybindings
 
-Here is the comprehensive list of the standard Naval Action Bar icons and their functions in War Thunder's Blue Water Battles:
+Reference for the Naval Action Bar icons, damage control presets (`USEROPT_SHIP_PRESET_BASED_DAMAGE_CONTROL:b=yes`), and naval combat keybindings configured in [`machine.blk`](file:///home/sticks/.config/WarThunder/Saves/last/production/machine.blk) (see [`WT-Keys.md`](file:///home/sticks/zets/WT-Keys.md)).
 
-| Default Key | Action                                 | Icon Description (What it looks like)                                                                                                          | Function in Naval Battles                                                                  |
-| :---------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
-|    **1**    | **Shell Type 1**                       | Usually the icon for **HE** (High Explosive) ammo: a **shell casing with a large explosion** symbol.                                           | Loads the first type of main gun ammunition (often HE).                                    |
-|    **2**    | **Shell Type 2**                       | Usually the icon for **AP** (Armor-Piercing) or **SAP** (Semi-Armor-Piercing) ammo: a **shell casing penetrating a plate**.                    | Loads the second type of main gun ammunition.                                              |
-|    **3**    | **Shell Type 3**                       | Usually the icon for **APHE** (Armor-Piercing High Explosive) or other specialized rounds: a **penetrating shell with an internal explosion**. | Loads the third type of main gun ammunition (if available).                                |
-|    **4**    | **Fire Extinguishing**                 | A **flame with water/foam** coming out of a nozzle or a **fire extinguisher** cylinder.                                                        | Immediately triggers your fire extinguishing system to start putting out all fires.        |
-|    **5**    | **Sealing Bulkheads / Pumps**          | An icon of **waves or water** being crossed out, or a **pump/valve**.                                                                          | Activates your pumps to drain water and slow/stop flooding in breached compartments.       |
-|    **6**    | **Repair**                             | A **wrench** or a **hammer and wrench** crossing each other.                                                                                   | Initiates the repair process for damaged modules (e.g., knocked-out guns, rudder, engine). |
-|    **7**    | **Smoke Screen**                       | A **cloud of smoke** or a **smoke generator** emitting a trail.                                                                                | Deploys a smoke screen from your stern to conceal your ship.                               |
-|    **8**    | **Artillery Support / Reconnaissance** | A **binocular reticle** or a **small mortar icon** (depending on the mode/ship).                                                               | Calls in offshore artillery support or an aircraft for spotting/recon.                     |
-|   **9+**    | **Ship-Specific Utilities**            | Varies (e.g., a **sonar/radar pulse** or a **switch**).                                                                                        | Toggles advanced systems like Radar or Hydrophone, if equipped.                            |
+## 1. Naval Action Bar & Damage Control Keys
 
-Would you like to know how the selection of these different shell types impacts your combat effectiveness against different enemy ships?
+| Active Key | Action ID | Action | Icon Description | Function in Naval Battles |
+| :---: | :--- | :--- | :--- | :--- |
+| **`1`** | `ID_SHIP_ACTION_BAR_ITEM_1` | **Shell Type 1** | Shell casing with an explosion symbol (typically **HE**). | Loads the first ammunition type for the active weapon group. |
+| **`2`** | `ID_SHIP_ACTION_BAR_ITEM_2` | **Shell Type 2** | Shell casing penetrating an armor plate (typically **AP** / **SAP**). | Loads the second ammunition type for the active weapon group. |
+| **`3`** | `ID_SHIP_ACTION_BAR_ITEM_3` | **Shell Type 3** | Penetrating shell with internal burst or proximity fuse (**APHE** / **HE-VT**). | Loads the third ammunition type (if equipped). |
+| **`4`** | `ID_SHIP_ACTION_BAR_ITEM_4` | **Shell Type 4** | Specialized shell icon. | Loads the fourth ammunition type (if equipped). |
+| **`5`** | `ID_SHIP_ACTION_BAR_ITEM_5` / `ID_SHIP_KILLSTREAK_WHEEL_MENU` | **Artillery Support / Event Wheel** | Binocular reticle or mortar/shell icon. | Calls offshore artillery support (`LMB` to fire, `MMB` to toggle view, `Esc` to cancel). |
+| **`6`** | `ID_TOGGLE_EXTINGUISHER` / `ID_SHIP_DAMAGE_CONTROL_PRESET_1` | **Fire Extinguishing / Damage Preset 1** | Flame with nozzle/extinguisher cylinder. | Triggers fire extinguishing or activates Damage Control Preset 1 (Firefighting priority). |
+| **`7`** / **`F`** | `ID_SHIP_ACTION_BAR_ITEM_11` / `ID_SHIP_DAMAGE_CONTROL_PRESET_2` | **Field Repair / Damage Preset 2** | Crossed hammer and wrench. | Initiates module repairs (guns, engines, steering) or activates Damage Control Preset 2. |
+| **`8`** | `ID_REPAIR_BREACHES` / `ID_SHIP_DAMAGE_CONTROL_PRESET_3` | **Sealing Bulkheads & Pumps / Preset 3** | Water waves with pump/valve symbol. | Repairs hull breaches and pumps water to stop flooding, or activates Damage Control Preset 3. |
+| **`9`** / **`0`** | `ID_SHIP_ACTION_BAR_ITEM_10` | **Ship-Specific Utilities** | Varies by vessel. | Activates auxiliary action bar items. |
+| **`G`** | `ID_SHIP_SMOKE_SCREEN_GENERATOR` | **Smoke Screen Generator** | Smoke cloud / stern generator trail. | Deploys a smoke screen from the stern or funnels to conceal the vessel. |
+| **`U`** | `ID_START_SUPPORT_PLANE_SHIP` | **Launch Catapult Recon Aircraft** | Floatplane / catapult aircraft icon. | Launches the shipboard reconnaissance aircraft (`H` to toggle orbiting). |
+
+## 2. Naval Weapon Group & Fire Control Shortcuts
+
+| Active Key | Action ID | Function |
+| :---: | :--- | :--- |
+| **`Left Alt + 1`** | `ID_SHIP_WEAPON_PRIMARY` | Switch control to Primary Caliber guns |
+| **`Left Alt + 2`** | `ID_SHIP_WEAPON_SECONDARY` | Switch control to Secondary Caliber guns |
+| **`Left Alt + 3`** | `ID_SHIP_WEAPON_MACHINEGUN` | Switch control to Anti-Aircraft (AA) / Machine Guns |
+| **`Left Ctrl + E`** | `ID_SHIP_SWITCH_TRIGGER_GROUP` | Toggle combined primary/secondary trigger group |
+| **`E`** | `ID_SHIP_TOGGLE_GUNNERS` | Cycle AI gunners mode (All / AA Only / Surface Only / Off) |
+| **`X + 1` / `2` / `3`** | `ID_SHIP_SELECT_TARGET_AI_*` | Designate manual target for AI Primary (`X+1`), Secondary (`X+2`), or AA (`X+3`) gunners |
+| **`Left Ctrl + LMB`** | `ID_SINGLE_SHOT_SHIP` | Fire a single ranging shot from one turret |
+| **`Q`** / **`Space`** | `ID_SHIP_TORPEDO_SIGHT` / `TORPEDOES` | Toggle Torpedo Sight (`Q`) and Launch Torpedoes (`Space`) |
+| **`Left Ctrl`** | `ID_SHIP_WEAPON_DEPTH_CHARGE` / `MINE` | Drop Depth Charges or Naval Mines |
+| **`R`** | `ID_SHIP_WEAPON_ROCKETS` / `MORTAR` | Fire Naval Rockets or Mortars |
+| **`B`** | `ID_SHIP_FULL_STOP` / `ID_CAMERA_BINOCULARS` | Emergency Full Stop (`W + S` stops engines) & Binoculars |
+

@@ -1,13 +1,15 @@
 ---
-created: 2026-10-18
+created: 2026-10-19
 ---
 
 
 # Generated Links
 
-- [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
 - [WT-Keys](WT-Keys.md)
 - [keybindings](keybindings.md)
+- [WT-Bluewater_Icon](WT-Bluewater_Icon.md)
+- [Spectator-keybinds](Spectator-keybinds.md)
+- [Meatloaf_Stuffed_Peppers_with_Rice](Meatloaf_Stuffed_Peppers_with_Rice.md)
 - [OBS_Keys](OBS_Keys.md)
 - [discord-ptt](discord-ptt.md)
 - [repo_sync_automation_guide](repo_sync_automation_guide.md)
@@ -19,7 +21,6 @@ created: 2026-10-18
 - [August26Challenges_Chat_Archive](August26Challenges_Chat_Archive.md)
 - [european_soccer_leagues_and_teams_guide](european_soccer_leagues_and_teams_guide.md)
 - [Particles_in_the_images](Particles_in_the_images.md)
-- [War_Thunder_Dr_Klitor_Controls](War_Thunder_Dr_Klitor_Controls.md)
 - [Latest_Prompt_List](Latest_Prompt_List.md)
 - [ethical_Hacking_sites](ethical_Hacking_sites.md)
 - [Build_sheets](Build_sheets.md)
@@ -88,7 +89,6 @@ created: 2026-10-18
 - [Firesticks_PWR_Timeout](Firesticks_PWR_Timeout.md)
 - [Traffic_Cams](Traffic_Cams.md)
 - [happens](happens.md)
-- [WT-Bluewater_Icon](WT-Bluewater_Icon.md)
 - [Purple_Heart_Desc](Purple_Heart_Desc.md)
 - [Flying_Dutchman_Burger](Flying_Dutchman_Burger.md)
 - [openAI_Tokens](openAI_Tokens.md)
@@ -144,7 +144,6 @@ created: 2026-10-18
 - [start_user_systemd_service_timers](start_user_systemd_service_timers.md)
 - [start_docker_container_at_boot](start_docker_container_at_boot.md)
 - [stable_difusion](stable_difusion.md)
-- [Spectator-keybinds](Spectator-keybinds.md)
 - [sound_issues](sound_issues.md)
 - [shell_commands](shell_commands.md)
 - [set_default_browser_to_flatpak](set_default_browser_to_flatpak.md)

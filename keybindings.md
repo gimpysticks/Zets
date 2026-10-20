@@ -197,10 +197,13 @@ Configured in `~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
 | `Super + Alt + r` | Redbubble | `xdg-open https://www.redbubble.com/portfolio/manage_works?ref=account-nav-dropdown` |
 
 ### Gaming
+In-game War Thunder keybindings reference: [`WT-Keys.md`](file:///home/sticks/zets/WT-Keys.md) (Spectator/Replay: [`Spectator-keybinds.md`](file:///home/sticks/zets/Spectator-keybinds.md), Naval: [`WT-Bluewater_Icon.md`](file:///home/sticks/zets/WT-Bluewater_Icon.md)).
+
 | Key Binding | Label | Command / Target |
 | :--- | :--- | :--- |
 | `Super + Ctrl + s` | Steam | `steam` (native `.deb` installation) |
 | `Super + Ctrl + w` | War Thunder | `steam steam://rungameid/236390` |
+
 
 ---
 
