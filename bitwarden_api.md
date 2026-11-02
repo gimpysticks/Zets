@@ -7,7 +7,7 @@ client_id:
 user.ee5c3a0d-12d3-4d50-ad3e-aa0a0021df77
 
 client_secret:
-Lq1aFy9vpy4BlpP9WK775f8EdLGdFe
+Bl4tiDADZZODnLaU7APvotPlDbPnVa
 
 scope:
 api
