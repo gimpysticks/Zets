@@ -6,7 +6,7 @@
 > - **Shell**: `/usr/bin/zsh`
 > - **Window Manager / Compositor**: `cosmic-comp` (Auto-tiling Wayland Compositor)
 > - **Primary Backup Repository**: [`~/bin`](file:///home/sticks/bin) (`https://github.com/gimpysticks/binfiles.git`)
-> - **Updated**: November 2, 2026
+> - **Updated**: November 3, 2026
 
 ---
 
@@ -128,13 +128,14 @@ Configured in `~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/` (back
 
 ## 3. Custom Application & Script Shortcuts (COSMIC)
 
-Configured in `~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom` (**42 active bindings**) and synced via [`~/bin/update_keybinds`](file:///home/sticks/bin/update_keybinds) / [`~/bin/restore_keybinds`](file:///home/sticks/bin/restore_keybinds).
+Configured in `~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom` (**43 active bindings**) and synced via [`~/bin/update_keybinds`](file:///home/sticks/bin/update_keybinds) / [`~/bin/restore_keybinds`](file:///home/sticks/bin/restore_keybinds).
 
 ### AI & Productivity Services
 | Key Binding | Label | Command / Action |
 | :--- | :--- | :--- |
 | `Super + Ctrl + a` | AI Urls | [`/home/sticks/bin/aiurls`](file:///home/sticks/bin/aiurls) |
 | `Super + Ctrl + g` | agy | `cosmic-term -e agy` (Antigravity CLI) |
+| `Super + Ctrl + m` | Meta AI | `xdg-open https://www.meta.ai` |
 | `Super + F8` | Handy Speech to Text | `/home/sticks/.local/bin/handy --toggle-transcription` |
 | `Super + Ctrl + o` | ChatGPT | `xdg-open https://www.chatgpt.com` |
 | `Super + Alt + g` | Gemini | `xdg-open https://gemini.google.com/app` |
