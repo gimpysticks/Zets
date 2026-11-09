@@ -204,7 +204,6 @@ modified: 2025-11-16
 - [wayland_toggle](wayland_toggle.md)
 - [wingaling_discount](wingaling_discount.md)
 - [write_file_as_sudo](write_file_as_sudo.md)
-- [yazi_fm_keybindings](yazi_fm_keybindings.md)
 - [yippee_ai_yay_#YIPPEELETTERW](yippee_ai_yay_#YIPPEELETTERW.md)
 - [youtube_rss_feed_prexfixs](youtube_rss_feed_prexfixs.md)
 - [youtube_urls](youtube_urls.md)

@@ -1,10 +1,12 @@
 ---
-created: 2026-11-06
+created: 2026-11-09
 ---
 
 
 # Generated Links
 
+- [Home](Home.md)
+- [synthwave_icecast_stream_directory](synthwave_icecast_stream_directory.md)
 - [keybindings](keybindings.md)
 - [Instagram-hashtag-changes-explained](Instagram-hashtag-changes-explained.md)
 - [twitch-slash-commands](twitch-slash-commands.md)
@@ -71,7 +73,6 @@ created: 2026-11-06
 - [zets_workflow](zets_workflow.md)
 - [zets_workfloe_usage](zets_workfloe_usage.md)
 - [Power_user tips_1](Power_user%20tips_1.md)
-- [Home](Home.md)
 - [AI_plugin_commands](AI_plugin_commands.md)
 - [xclip_clipboard_commands](xclip_clipboard_commands.md)
 - [Gemini_in_nvim](Gemini_in_nvim.md)
@@ -108,7 +109,6 @@ created: 2026-11-06
 - [youtube_urls](youtube_urls.md)
 - [youtube_rss_feed_prexfixs](youtube_rss_feed_prexfixs.md)
 - [Yazi_FM_Keybindings](Yazi_FM_Keybindings.md)
-- [yazi_fm_keybindings](yazi_fm_keybindings.md)
 - [write_file_as_sudo](write_file_as_sudo.md)
 - [wingaling_discount](wingaling_discount.md)
 - [Windocker](Windocker.md)
