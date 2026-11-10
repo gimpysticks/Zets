@@ -5,6 +5,7 @@ created: 2026-11-09
 
 # Generated Links
 
+- [FAA-Friends-Birthday-List](FAA-Friends-Birthday-List.md)
 - [Home](Home.md)
 - [synthwave_icecast_stream_directory](synthwave_icecast_stream_directory.md)
 - [keybindings](keybindings.md)
