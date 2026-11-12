@@ -1,12 +1,11 @@
 ---
-created: 2026-11-09
+created: 2026-11-11
 ---
 
 
 # Generated Links
 
 - [FAA-Friends-Birthday-List](FAA-Friends-Birthday-List.md)
-- [Home](Home.md)
 - [synthwave_icecast_stream_directory](synthwave_icecast_stream_directory.md)
 - [keybindings](keybindings.md)
 - [Instagram-hashtag-changes-explained](Instagram-hashtag-changes-explained.md)
@@ -34,7 +33,6 @@ created: 2026-11-09
 - [Build_sheets](Build_sheets.md)
 - [brain_prompts](brain_prompts.md)
 - [Create_Daniel2_Prompt_Transcript](Create_Daniel2_Prompt_Transcript.md)
-- [chatGPT_Slash_codes](chatGPT_Slash_codes.md)
 - [Viral_words_list](Viral_words_list.md)
 - [news_sources](news_sources.md)
 - [Stuff](Stuff.md)
